@@ -1,1 +1,1 @@
-# Izhevsk-Java-Online-Education-Course
+# Izhevsk Java Online Education Course
