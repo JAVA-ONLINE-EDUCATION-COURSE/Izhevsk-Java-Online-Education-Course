@@ -15,6 +15,6 @@
 * [Протокол HTTP]({{site.baseurl}}/course/http)
 * [Основы WEB (HTML, CSS, JS)]({{site.baseurl}}/course/web_basics)
 * [Фреймворк Spring MVC]({{site.baseurl}}/course/spring_mvc_framework)
-* [Финальная работа]({{site.baseurl}}/course/final_project)
+* [Финальный проект]({{site.baseurl}}/course/final_project)
 * [Прохождение итогового тестирования]({{site.baseurl}}/course/final_test)
 * [Завершение обучения]({{site.baseurl}}/course/next_steps)
