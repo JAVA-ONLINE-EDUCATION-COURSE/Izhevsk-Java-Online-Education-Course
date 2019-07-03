@@ -1,6 +1,7 @@
 Содержание курса
 ====================
 
+* [Описание курса]({{site.baseurl}})
 * [Введение в Java]({{site.baseurl}}/course/java_intro)
 * [Системы контроля версий - Git]({{site.baseurl}}/course/vcs)
 * [Базовые понятия Java]({{site.baseurl}}/course/java_basics)
