@@ -7,8 +7,8 @@
 
 Материалы для самоподготовки
 ---------------------
-1. ...
-2. ...
+1. https://learn.by/courses/course-v1:EPAM+JF+ext1/about - (видео курсы на русском)
+2. https://www.w3schools.com/java/java_intro.asp - (материал на английском) - основы Java
 3. ...
 
 

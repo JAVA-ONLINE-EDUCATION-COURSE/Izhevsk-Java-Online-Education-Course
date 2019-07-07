@@ -7,8 +7,8 @@
 
 Материалы для самоподготовки
 ---------------------
-1. ...
-2. ...
+1. https://www.w3schools.com/java/java_getstarted.asp
+2. 
 3. ...
 
 
