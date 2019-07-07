@@ -8,7 +8,7 @@
 Материалы для самоподготовки
 ---------------------
 1. https://www.w3schools.com/java/java_getstarted.asp
-2. 
+2. [Шорткатыъ(https://github.com/JAVA-ONLINE-EDUCATION-COURSE/Izhevsk-Java-Online-Education-Course/raw/master/materials/java_intro/Intelliji_idea_shortcuts.pdf)
 3. ...
 
 
