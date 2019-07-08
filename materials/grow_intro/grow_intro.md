@@ -2,7 +2,7 @@
 ====================
 
 >
->[Вернуться к содержанию курса]({{site.baseurl}}/course/content)
+>[Вернуться к содержанию курса]({{site.baseurl}}/content)
 >
 
 Краткое **[видео](https://www.youtube.com/watch?v=9q3aOLZ_qII)** о работе в Grow.by
