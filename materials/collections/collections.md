@@ -11,7 +11,6 @@
 
 Материалы для самоподготовки
 ---------------------
-
 1. [Общий справочник по Java Collections Framework](https://habrahabr.ru/post/237043/)
 2. [Обзор коллекции ArrayList](http://habrahabr.ru/post/128269/)
 3. [Обзор коллекции LinkedList](http://habrahabr.ru/post/127864/)
