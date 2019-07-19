@@ -7,30 +7,44 @@
 
 Описание модуля
 ---------------------
-В рамках данного модуля вы изучите ...
+В рамках данного модуля вы изучите основные знания, которые помогут вам написать свою первую программу на Java. Более того, 
+будут рассмотрены ниболее подходящие инструменты и техники для наиболее продуктивной работы.
 
-Материалы для самоподготовки
+IDE (Редакторы кода)
 ---------------------
-1. https://www.w3schools.com/java/java_getstarted.asp
-2. [Шорткаты](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/Izhevsk-Java-Online-Education-Course/raw/master/materials/java_intro/Intelliji_idea_shortcuts.pdf)
-3. ...
 
+1. [Intelliji Idea](https://www.jetbrains.com/idea/)
+2. [Eclipse](https://www.eclipse.org/downloads/)
+3. [NET beans](https://netbeans.apache.org/download/index.html)
+
+Полезные ссылки
+---------------------
++ [Как поставить Java локально](https://www.w3schools.com/java/java_getstarted.asp)
++ [Горячие клавиши в Intelliji Idea](./Intelliji_idea_shortcuts.pdf)
++ [Кодстайл гугла](https://google.github.io/styleguide/javaguide.html)
 
 Практическая работа
 ---------------------
 
 ### Задание №1
-Задание ...
-
-
+Установите [JDK 1.8+](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 1.8+ 
+себе на рабочую машину. Убедитесь, что JAVA_HOME прописан и из консоли вы можете вызвать утилиты JDK. Попробуйте написать
+простой Hello World, скомпилируйте его через консоль и запустите.
 
 ### Задание №2
-Задание ...
-
-
+Установите себе одну из IDE. Поупражняйтесь в ней делать следующие вещи:
++ Импортировать проект
++ Создавать проект с 0
++ Создавать классы
++ Запускать код
++ Дебажить код
 
 Вопросы для самоконтроля
 ---------------------
 1. Чем отличается JRE, JVM и JDK?
 2. Что такое Heap и Stack память в Java?
-3. ...
+3. Зачем нам нужна IDE?
+4. Что такое Debug Mode? Когда он может пригодиться?
+5. Какой путь пройдет java-файл, прежде чем он выполнится в процессе работы приложения?
+6. Какие есть best practices с точки зрения стиля кода в java сообществе?
+7. Какие можно выделить плюсы и минусы Java как платформы и как языка?
