@@ -3,7 +3,13 @@
 
 ### Описание курса и общие материалы
 * [Описание курса]({{site.baseurl}})
-* [Правила работы с платформой Grow.by]({{site.baseurl}}/materials/grow_intro/grow_intro)
+
+### Описание правил и процессов обучения
+* [Правила работы с платформой Grow.by]({{site.baseurl}}/materials/general/grow_intro)
+* [Правила работы с платформой Learn.by]({{site.baseurl}}/materials/general/learn_intro)
+* [Правила отправки практической работы на проверку ревьюверу]({{site.baseurl}}/materials/general/mr_creation_rules)
+* [Правила оценки практических работ ревьювером]({{site.baseurl}}/materials/general/evaluation_rules_for_reviwer)
+* [Типичные ошибки при выполнении практических работ]({{site.baseurl}}/materials/general/typical_mistakes)
 
 ### Введение в Java платформу
 * [Введение в Java]({{site.baseurl}}/materials/java_intro/java_intro)
