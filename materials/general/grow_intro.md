@@ -1,7 +1,7 @@
+{% include header.md %}
+
 Правила работы с платформой Grow.by
 ====================
-
-{% include header.md %}
 
 Краткое **[видео](https://www.youtube.com/watch?v=9q3aOLZ_qII)** о работе в Grow.by
 

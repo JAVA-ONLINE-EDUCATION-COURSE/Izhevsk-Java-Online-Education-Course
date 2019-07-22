@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-baseurl: "/Izhevsk-Java-Online-Education-Course"
-contenturl: "/Izhevsk-Java-Online-Education-Course/content"
+baseurl: "/Izhevsk-Java-Online-Education-Course/"
+contenturl: "/Izhevsk-Java-Online-Education-Course/content/"
+materialsurl: "/Izhevsk-Java-Online-Education-Course/materials/"

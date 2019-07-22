@@ -1,4 +1,5 @@
+{% include header.md %}
+
 Завершение обучения
 ====================
 
-{% include header.md %}
