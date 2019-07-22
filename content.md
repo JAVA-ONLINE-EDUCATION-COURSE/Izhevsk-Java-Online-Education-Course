@@ -1,9 +1,6 @@
 Содержание курса
 ====================
 
-### Описание курса и общие материалы
-* [Описание курса]({{site.baseurl}})
-
 ### Описание правил и процессов обучения
 * [Правила работы с платформой Grow.by]({{site.baseurl}}/materials/general/grow_intro)
 * [Правила работы с платформой Learn.by]({{site.baseurl}}/materials/general/learn_intro)

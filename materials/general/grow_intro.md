@@ -1,9 +1,7 @@
 Правила работы с платформой Grow.by
 ====================
 
->
->[Вернуться к содержанию курса]({{site.baseurl}}/content)
->
+{% include header.md %}
 
 Краткое **[видео](https://www.youtube.com/watch?v=9q3aOLZ_qII)** о работе в Grow.by
 
