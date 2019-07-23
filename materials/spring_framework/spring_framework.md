@@ -12,6 +12,7 @@
 1. [Презентация по Spring Core](./presentations/Spring%20Core.pptx)
 2. [Видеоуроки](https://www.youtube.com/watch?v=3wBteulZaAs&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t)
 3. [Документация на русском](http://spring-projects.ru/projects/spring-framework/)
+4. [Скелетон проекта для Д/З](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/spring-core-template)
 
 Практическая работа
 ---------------------
@@ -28,7 +29,7 @@
 + Поиск товара по ID
 + Покупка товара
 
-3. Создать временный Spring Bean , в который подключить с помощью @Autowire DAO, указав в качестве типа переменной
+3. Создать временный Spring Bean, в который подключить с помощью @Autowire DAO, указав в качестве типа переменной
 интерфейс. Из основного метода программы получите bean ProductDemo и вызовите метод conductDemo, который выполнит 
 несколько тестовых операций над DAO и выведет результат в консоль. В будущем этот Spring Bean будет удален, 
 а вместо него будет слой веб-логики
