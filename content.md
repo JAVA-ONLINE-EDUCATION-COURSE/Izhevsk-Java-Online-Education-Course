@@ -24,6 +24,9 @@
 * [Работа с коллекциями в Java]({{site.materialsurl}}collections/collections)
 * [Работа с исключениями в Java]({{site.materialsurl}}exceptions/exceptions)
 
+### Сборка проектов
+* [Введение в сборщик проектов Maven]({{site.materialsurl}}maven/maven)
+
 ### Фреймворк Spring Core
 * [Основы фреймворка Spring]({{site.materialsurl}}spring_framework/spring_framework)
 
@@ -42,8 +45,3 @@
 * [Разработка финального проекта]({{site.materialsurl}}final_project/final_project)
 * [Прохождение итогового тестирования]({{site.materialsurl}}final_test/final_test)
 * [Завершение обучения]({{site.materialsurl}}next_steps/next_steps)
-
-### Опциональные модули
-* [Системы сборки (Maven)](TODO)
-* 
-* 
