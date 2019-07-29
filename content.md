@@ -24,6 +24,9 @@
 * [Работа с коллекциями в Java]({{site.materialsurl}}collections/collections)
 * [Работа с исключениями в Java]({{site.materialsurl}}exceptions/exceptions)
 
+### Исскуство написания кода
+* [Чистый код]({{site.materialsurl}}clean_code/clean_code)
+
 ### Сборка проектов
 * [Введение в сборщик проектов Maven]({{site.materialsurl}}maven/maven)
 
