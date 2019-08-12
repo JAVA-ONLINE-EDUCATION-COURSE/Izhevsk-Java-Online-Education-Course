@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: "Онлайн курс обучения программированию на Java"
-baseurl: "/"
-contenturl: "/content"
-materialsurl: "/materials/"
+baseurl: "/Izhevsk-Java-Online-Education-Course/"
+contenturl: "/Izhevsk-Java-Online-Education-Course/content"
+materialsurl: "/Izhevsk-Java-Online-Education-Course/materials/"
 google_analytics: UA-144330579-1
