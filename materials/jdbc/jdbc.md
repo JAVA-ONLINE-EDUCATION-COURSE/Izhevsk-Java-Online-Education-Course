@@ -9,8 +9,9 @@
 
 Материалы для самоподготовки
 ---------------------
-1. [Презентация JDBC](./presentations/JDBC.pptx)
-2. [Статья про JDBC](https://javarush.ru/groups/posts/2172-jdbc-ili-s-chego-vsje-nachinaetsja)
+1. [Курс на LEARN](https://learn.by/courses/course-v1:EPAM+JDBC_RD_BY+ext1/about)
+2. [Презентация JDBC](./presentations/JDBC.pptx)
+3. [Статья про JDBC](https://javarush.ru/groups/posts/2172-jdbc-ili-s-chego-vsje-nachinaetsja)
 
 Практическая работа
 ---------------------
