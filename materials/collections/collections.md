@@ -10,14 +10,14 @@
 
 Материалы для самоподготовки
 ---------------------
-1. [Java Collections - Learn.by](https://learn.by/courses/course-v1:EPAM+JColl+ext1/about)
-2. [Общий справочник по Java Collections Framework](https://habrahabr.ru/post/237043/)
-3. [Обзор коллекции ArrayList](http://habrahabr.ru/post/128269/)
-4. [Обзор коллекции LinkedList](http://habrahabr.ru/post/127864/)
-5. [Обзор коллекции HashMap](http://habrahabr.ru/post/128017/)
-6. [Коллекции в Java - видео](https://www.youtube.com/watch?v=7gws2decf2g)
-7. *[Jenkov Java Collections Tutorial](http://tutorials.jenkov.com/java-collections/index.html)
-8. *[Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/collectins/)
+1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+JColl+ext1/about)
+1. [Общий справочник по Java Collections Framework](https://habrahabr.ru/post/237043/)
+1. [Обзор коллекции ArrayList](http://habrahabr.ru/post/128269/)
+1. [Обзор коллекции LinkedList](http://habrahabr.ru/post/127864/)
+1. [Обзор коллекции HashMap](http://habrahabr.ru/post/128017/)
+1. [Коллекции в Java - видео](https://www.youtube.com/watch?v=7gws2decf2g)
+1. *[Jenkov Java Collections Tutorial](http://tutorials.jenkov.com/java-collections/index.html)
+1. *[Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/collectins/)
 
 
 Практическая работа
@@ -29,8 +29,8 @@
 В данном тексте необходимо:
 1. Вывести на экран количество повторений для каждого слова в тексте. При подсчете учитывать, что знаки пробела и знаки 
 препинания являются разделителями слов. Необходимо использовать Map<String, Long>. 
-2. Вывести на экран все уникальные слова из текста. Необходимо использовать Set<String>.
-3. Вывести на экран список всех уникальных слов из текста в отсортированном виде по длинне слова от большего к меньшему. 
+1. Вывести на экран все уникальные слова из текста. Необходимо использовать Set<String>.
+1. Вывести на экран список всех уникальных слов из текста в отсортированном виде по длинне слова от большего к меньшему. 
 Необходимо использовать Comparator.
 
 Для реализации программы необходимо использовать стандартные коллекции из Java Collections Framework.
@@ -51,16 +51,16 @@
 Вопросы для самоконтроля
 ---------------------
 1. Назовите основные интерфейсы коллекций и их имплементации.
-2. Чем отличается ArrayList от LinkedList? В каких случаях лучше использовать первый, а в каких второй?
-3. Как сравниваются елементы коллекций?
-4. Дайте определение понятию "iterator".
-5. Если у класса переопределен hashCode, какой метод еще следует переопределить?
-6. Если у двух экземпляров метод equals возвращает true, может ли hashCode вернуть различные значения?
-7. Если у двух экземпляров метод hashCode возвращает одинаковое значение, может ли equals вернуть false?
-8. Можно ли в методе hashCode писать return 1? Как оптимально реализовать метод hashCode?
-9. Устройство HashMap?
-10. В чем разница между HashMap, SortedMap, TreeMap, LinkedHashMap?
-11. При объявлении типов, что предпочтительнее List&lt;Student&gt; или ArrayList&lt;Student&gt;?
-12. В каких случаях стоит использовать Queue? Чем Queue отличается от Deque?
+1. Чем отличается ArrayList от LinkedList? В каких случаях лучше использовать первый, а в каких второй?
+1. Как сравниваются елементы коллекций?
+1. Дайте определение понятию "iterator".
+1. Если у класса переопределен hashCode, какой метод еще следует переопределить?
+1. Если у двух экземпляров метод equals возвращает true, может ли hashCode вернуть различные значения?
+1. Если у двух экземпляров метод hashCode возвращает одинаковое значение, может ли equals вернуть false?
+1. Можно ли в методе hashCode писать return 1? Как оптимально реализовать метод hashCode?
+1. Устройство HashMap?
+1. В чем разница между HashMap, SortedMap, TreeMap, LinkedHashMap?
+1. При объявлении типов, что предпочтительнее List&lt;Student&gt; или ArrayList&lt;Student&gt;?
+1. В каких случаях стоит использовать Queue? Чем Queue отличается от Deque?
 
 
