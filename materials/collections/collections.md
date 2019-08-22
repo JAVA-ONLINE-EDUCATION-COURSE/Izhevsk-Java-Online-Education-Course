@@ -12,12 +12,12 @@
 ---------------------
 1. [Java Collections - Learn.by](https://learn.by/courses/course-v1:EPAM+JColl+ext1/about)
 2. [Общий справочник по Java Collections Framework](https://habrahabr.ru/post/237043/)
-2. [Обзор коллекции ArrayList](http://habrahabr.ru/post/128269/)
-3. [Обзор коллекции LinkedList](http://habrahabr.ru/post/127864/)
-4. [Обзор коллекции HashMap](http://habrahabr.ru/post/128017/)
-5. [Коллекции в Java (стандартные и библиотеки)](http://habrahabr.ru/company/luxoft/blog/256877/)
-6. [Jenkov Java Collections Tutorial](http://tutorials.jenkov.com/java-collections/index.html)
-7. [Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/collectins/)
+3. [Обзор коллекции ArrayList](http://habrahabr.ru/post/128269/)
+4. [Обзор коллекции LinkedList](http://habrahabr.ru/post/127864/)
+5. [Обзор коллекции HashMap](http://habrahabr.ru/post/128017/)
+6. [Коллекции в Java - видео](https://www.youtube.com/watch?v=7gws2decf2g)
+7. *[Jenkov Java Collections Tutorial](http://tutorials.jenkov.com/java-collections/index.html)
+8. *[Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/collectins/)
 
 
 Практическая работа
@@ -35,8 +35,6 @@
 
 Для реализации программы необходимо использовать стандартные коллекции из Java Collections Framework.
 
-Реализовать задачу использую Stream API (усложненный вариант)*
-
 ### Задание №2
 В кругу стоят N человек, пронумерованных от 1 до N. 
 При ведении счета по кругу вычеркивается каждый второй человек, пока не останется один. 
@@ -45,6 +43,10 @@
 Одна из программ должна использовать класс ArrayList, а вторая — LinkedList. 
 
 Какая из двух программ работает быстрее? Почему?
+
+### Задание №3
+Реализуйте класс MyArrayList, внутри которого есть массив строк и методы, реализующие запись/поиск по значению
+/редактирование/удаление элемента(ов) внутри этого массива.
 
 Вопросы для самоконтроля
 ---------------------
