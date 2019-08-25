@@ -10,16 +10,16 @@
 Материалы для самоподготовки
 ---------------------
 1. [Презентация по Spring Core](./presentations/Spring%20Core.pptx)
-2. [Видеоуроки](https://www.youtube.com/watch?v=3wBteulZaAs&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t)
-3. [Документация на русском](http://spring-projects.ru/projects/spring-framework/)
-4. [Скелетон проекта для Д/З](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/spring-core-template)
+1. [Видеоуроки](https://www.youtube.com/watch?v=3wBteulZaAs&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t)
+1. [Документация на русском](http://spring-projects.ru/projects/spring-framework/)
+1. [Скелетон проекта для Д/З](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/spring-core-template)
 
 Практическая работа
 ---------------------
 
 ### Задание №1
 1. Выбрать вариант для финальной работы [здесь]({{site.materialsurl}}final_project/final_project#final_project_options)
-2. Спроектировать слой доступа к данным - DAO (Data access object). В программе будет несколько DAO - по одному на 
+1. Спроектировать слой доступа к данным - DAO (Data access object). В программе будет несколько DAO - по одному на 
 каждую сущность. Каждый DAO описывается ровно одним Spring Bean. Сделать один + Spring Bean с DAO. В нем создать 
 методы для CRUD-операций - те, которые нужны по постановке задачи. Сами операции должны возвращать заранее 
 забитые в коллекции данные, т.е. в этой практике вместо базы данных следует использовать коллекции.
@@ -29,7 +29,7 @@
 + Поиск товара по ID
 + Покупка товара
 
-3. Создать временный Spring Bean, в который подключить с помощью @Autowire DAO, указав в качестве типа переменной
+1. Создать временный Spring Bean, в который подключить с помощью @Autowire DAO, указав в качестве типа переменной
 интерфейс. Из основного метода программы получите bean ProductDemo и вызовите метод conductDemo, который выполнит 
 несколько тестовых операций над DAO и выведет результат в консоль. В будущем этот Spring Bean будет удален, 
 а вместо него будет слой веб-логики
@@ -37,12 +37,12 @@
 Вопросы для самоконтроля
 ---------------------
 1. Объясните суть паттерна DI
-2. Что такое ApplicationContext?
-3. Как пометить класс как Bean для Spring? В XML-based, Annotation-based, JavaConfig и GroovyConfig?
-4. Как “заинжектить” Bean в поле другого Bean? В XML-based, Annotation-based, JavaConfig и GroovyConfig? Возможно ли заинжектить Bean в обычный класс?
-5. Что такое “ленивая инициализация” бина?
-6. Что такое singleton scope? Что такое prototype scope?
-7. Перечислите виды callbacks в процессе инициализации/уничтожения Spring Bean, назовите назначение?
-8. Для чего нужна аннотация @Required?
-9. К чему применяется аннотация @Autowired? @Inject?
-10. Spring stereotype аннотации включают в себя аннотации @Component, @Service и другие. Каково отличие между ними?
+1. Что такое ApplicationContext?
+1. Как пометить класс как Bean для Spring? В XML-based, Annotation-based, JavaConfig и GroovyConfig?
+1. Как “заинжектить” Bean в поле другого Bean? В XML-based, Annotation-based, JavaConfig и GroovyConfig? Возможно ли заинжектить Bean в обычный класс?
+1. Что такое “ленивая инициализация” бина?
+1. Что такое singleton scope? Что такое prototype scope?
+1. Перечислите виды callbacks в процессе инициализации/уничтожения Spring Bean, назовите назначение?
+1. Для чего нужна аннотация @Required?
+1. К чему применяется аннотация @Autowired? @Inject?
+1. Spring stereotype аннотации включают в себя аннотации @Component, @Service и другие. Каково отличие между ними?
