@@ -5,13 +5,12 @@
 
 Описание модуля
 ---------------------
-В рамках данного модуля вы изучите основной сборщик java-проектов - Maven 
+В рамках данного модуля вы изучите основы работы с многопоточностью в Java. 
 
 Материалы для самоподготовки
 ---------------------
-1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+MBT+ext1/about)
-1. [Видео: Ant и Maven](https://www.youtube.com/watch?v=ouUuT2uEuiU)
-1. [Перевод документации мавена](https://www.apache-maven.ru/)
+1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+JH+ext1/about)
+1. [Видео: потоки](https://www.youtube.com/watch?v=0Aiw97_Y300)
 1. [Туториалы по мавену](https://proselyte.net/tutorials/maven/)
 
 Практическая работа
