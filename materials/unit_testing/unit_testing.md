@@ -9,8 +9,8 @@
 
 Материалы для самоподготовки
 ---------------------
-1. [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]
-[Видео: Junit](https://www.youtube.com/watch?v=QJZb1fNYh9c)
+1. Видео: JUnit - Java для тестировщиков 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=QJZb1fNYh9c)
 
 Практическая работа
 ---------------------
