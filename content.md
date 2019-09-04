@@ -26,6 +26,12 @@
 * [Работа с исключениями в Java]({{site.materialsurl}}exceptions/exceptions)
 * [Многопоточность в Java]({{site.materialsurl}}multithreading_basics/multithreading_basics)
 
+### Сборка проектов
+* [Введение в сборщик проектов Maven]({{site.materialsurl}}maven/maven)
+
+### Тестирование 
+* [Введение в Unit тестирование]({{site.materialsurl}}unit_testing/unit_testing)
+
 ### Углебленное изучение Java
 * [Обобщенные типы в Java]({{site.materialsurl}}generics/generics)
 * [Аннотации в Java]({{site.materialsurl}}annotations/annotations)
@@ -33,12 +39,6 @@
 
 ### Исскуство написания кода
 * [Чистый код]({{site.materialsurl}}clean_code/clean_code)
-
-### Сборка проектов
-* [Введение в сборщик проектов Maven]({{site.materialsurl}}maven/maven)
-
-### Тестирование 
-* [Введение в Unit тестирование]({{site.materialsurl}}unit_testing/unit_testing)
 
 ### Фреймворк Spring Core
 * [Основы фреймворка Spring]({{site.materialsurl}}spring_framework/spring_framework)
