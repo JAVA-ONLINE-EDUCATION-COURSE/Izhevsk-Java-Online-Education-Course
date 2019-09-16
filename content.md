@@ -8,8 +8,8 @@
 ### Описание правил и процессов обучения
 * [Правила работы с платформой Grow.by]({{site.materialsurl}}general/grow_intro)
 * [Правила работы с платформой Learn.by]({{site.materialsurl}}general/learn_intro)
-* [Правила отправки практической работы на проверку ревьюверу]({{site.materialsurl}}general/mr_creation_rules)
-* [Правила оценки практических работ ревьювером]({{site.materialsurl}}general/evaluation_rules_for_reviwer)
+* [Правила работы с шаблоном Grow]({{site.materialsurl}}general/grow_template_rules)
+* [Критерии оценки практических работ ментором]({{site.materialsurl}}general/practical_tasks_evaluation_rules)
 * [Типичные ошибки при выполнении практических работ]({{site.materialsurl}}general/typical_mistakes)
 
 ### Введение в Java платформу
