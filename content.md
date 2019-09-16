@@ -12,6 +12,7 @@
 * [Правила выполнения практических заданий]({{site.materialsurl}}general/practical_tasks_completing_rules)
 * [Критерии оценки практических работ ментором]({{site.materialsurl}}general/practical_tasks_evaluation_rules)
 * [Типичные ошибки при выполнении практических работ]({{site.materialsurl}}general/typical_mistakes)
+* [Часто задаваемые вопросы]({{site.materialsurl}}general/faq)
 
 ### Введение в Java платформу
 * [Введение в Java]({{site.materialsurl}}java_intro/java_intro)
