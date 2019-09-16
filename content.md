@@ -24,21 +24,12 @@
 * [Работа с данными]({{site.materialsurl}}data_handling/data_handling)
 * [Работа с коллекциями в Java]({{site.materialsurl}}collections/collections)
 * [Работа с исключениями в Java]({{site.materialsurl}}exceptions/exceptions)
-* [Многопоточность в Java]({{site.materialsurl}}multithreading_basics/multithreading_basics)
 
 ### Сборка проектов
 * [Введение в сборщик проектов Maven]({{site.materialsurl}}maven/maven)
 
 ### Тестирование 
 * [Введение в Unit тестирование]({{site.materialsurl}}unit_testing/unit_testing)
-
-### Углебленное изучение Java
-* [Обобщенные типы в Java]({{site.materialsurl}}generics/generics)
-* [Аннотации в Java]({{site.materialsurl}}annotations/annotations)
-* [Сериализация в Java]({{site.materialsurl}}serialization/serialization) <!---Добавить ссылку на модуль с JSON и XML -->
-
-### Исскуство написания кода
-* [Чистый код]({{site.materialsurl}}clean_code/clean_code)
 
 ### Фреймворк Spring Core
 * [Основы фреймворка Spring]({{site.materialsurl}}spring_framework/spring_framework)
@@ -58,3 +49,10 @@
 * [Разработка финального проекта]({{site.materialsurl}}final_project/final_project)
 * [Прохождение итогового тестирования]({{site.materialsurl}}final_test/final_test)
 * [Завершение обучения]({{site.materialsurl}}next_steps/next_steps)
+
+### Дополнительные модули?
+* [Чистый код]({{site.materialsurl}}clean_code/clean_code)
+* [Обобщенные типы в Java]({{site.materialsurl}}generics/generics)
+* [Аннотации в Java]({{site.materialsurl}}annotations/annotations)
+* [Сериализация в Java]({{site.materialsurl}}serialization/serialization) <!---Добавить ссылку на модуль с JSON и XML -->
+* [Многопоточность в Java]({{site.materialsurl}}multithreading_basics/multithreading_basics)
