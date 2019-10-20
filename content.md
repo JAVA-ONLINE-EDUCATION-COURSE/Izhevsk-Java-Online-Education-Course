@@ -14,13 +14,11 @@
 * [Типичные ошибки при выполнении практических работ]({{site.materialsurl}}general/typical_mistakes)
 * [Часто задаваемые вопросы]({{site.materialsurl}}general/faq)
 
-### Введение в Java платформу
-* [Введение в Java]({{site.materialsurl}}java_intro/java_intro)
-
 ### Работа с системой контроля версий
-* [Системы контроля версий - Git]({{site.materialsurl}}vcs/vcs)
+* [Системы контроля версий - Git]({{site.materialsurl}}git/git)
 
 ### Основы Java
+* [Введение в платформу Java]({{site.materialsurl}}java_intro/java_intro)
 * [Базовые понятия Java]({{site.materialsurl}}java_basics/java_basics)
 * [Объектно ориентированное программирование (ООП)]({{site.materialsurl}}oop/oop)
 * [Работа с данными]({{site.materialsurl}}data_handling/data_handling)

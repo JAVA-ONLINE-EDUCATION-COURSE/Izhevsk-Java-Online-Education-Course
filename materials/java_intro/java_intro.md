@@ -1,6 +1,6 @@
 {% include header.md %}
 
-Введение в Java
+Введение в платформу Java
 ====================
 
 Описание модуля
@@ -19,14 +19,14 @@ IDE (Редакторы кода)
 ---------------------
 + [Как поставить Java локально](https://www.w3schools.com/java/java_getstarted.asp)
 + [Горячие клавиши в Intelliji Idea](./Intelliji_idea_shortcuts.pdf)
-+ [Кодстайл гугла](https://google.github.io/styleguide/javaguide.html)
++ [Java Google codestyle](https://google.github.io/styleguide/javaguide.html)
 
 Практическая работа
 ---------------------
 
 ### Задание №1
-Установите [JDK 1.8+](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 1.8+ 
-себе на рабочую машину. Убедитесь, что JAVA_HOME прописан и из консоли вы можете вызвать утилиты JDK. Попробуйте написать
+Установите [JDK 1.8+](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) себе 
+на рабочую машину. Убедитесь, что JAVA_HOME прописан и из консоли вы можете вызвать утилиты JDK. Попробуйте написать
 простой Hello World, скомпилируйте его через консоль и запустите.
 
 ### Задание №2
