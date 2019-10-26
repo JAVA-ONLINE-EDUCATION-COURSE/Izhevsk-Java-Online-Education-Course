@@ -7,6 +7,13 @@
 ---------------------
 В рамках данного модуля вы изучите основы верстки с помощью HTML, CSS и javascript
 
+Охватываемые темы
+---------------------
++ HyperTextMarkupLanguage
++ CascadeStyleSheets
++ Теги в HTML
++ Классы в CSS
+
 Материалы для самоподготовки
 ---------------------
 1. [Прочитать основной tutorial и раздел “Forms”](http://www.w3schools.com/html)
