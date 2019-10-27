@@ -1,6 +1,7 @@
 Содержание курса
 ====================
-
+Содержание курса
+--------------------
 ### Описание курса и старт обучения
 * [Описание курса]({{site.baseurl}})
 * [Старт процесса обучения]({{site.materialsurl}}general/education_start)
@@ -8,9 +9,8 @@
 ### Описание правил и процессов обучения
 * [Правила работы с платформой Grow.by]({{site.materialsurl}}general/grow_intro)
 * [Правила работы с платформой Learn.by]({{site.materialsurl}}general/learn_intro)
-* [Правила работы с шаблоном Grow]({{site.materialsurl}}general/grow_template_rules)
 * [Правила выполнения практических заданий]({{site.materialsurl}}general/practical_tasks_completing_rules)
-* [Критерии оценки практических работ ментором]({{site.materialsurl}}general/practical_tasks_evaluation_rules)
+* [Критерии выставления оценки для практических работ]({{site.materialsurl}}general/practical_tasks_evaluation_rules)
 * [Типичные ошибки при выполнении практических работ]({{site.materialsurl}}general/typical_mistakes)
 * [Часто задаваемые вопросы]({{site.materialsurl}}general/faq)
 
