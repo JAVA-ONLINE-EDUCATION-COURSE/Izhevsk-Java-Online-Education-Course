@@ -1,8 +1,12 @@
 Содержание курса
 ====================
+\n
 
-Какова цель данного курса?
+Правила и требования к обучению
 ---------------------
+
+
+
 
 ### Описание курса и старт обучения
 * [Описание курса]({{site.baseurl}})
@@ -16,6 +20,9 @@
 * [Типичные ошибки при выполнении практических работ]({{site.materialsurl}}general/typical_mistakes)
 * [Часто задаваемые вопросы]({{site.materialsurl}}general/faq)
 
+Базовые модули
+---------------------
+
 ### Работа с системой контроля версий
 * [Системы контроля версий - Git]({{site.materialsurl}}git/git)
 
@@ -26,6 +33,9 @@
 * [Работа с данными]({{site.materialsurl}}data_handling/data_handling)
 * [Работа с коллекциями в Java]({{site.materialsurl}}collections/collections)
 * [Работа с исключениями в Java]({{site.materialsurl}}exceptions/exceptions)
+
+Продвинутые модули
+---------------------
 
 ### Сборка проектов
 * [Введение в сборщик проектов Maven]({{site.materialsurl}}maven/maven)
