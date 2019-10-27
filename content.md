@@ -15,9 +15,8 @@
 * [Критерии выставления оценки для практических работ]({{site.materialsurl}}general/practical_tasks_evaluation_rules)
 * [Типичные ошибки при выполнении практических работ]({{site.materialsurl}}general/typical_mistakes)
 * [Часто задаваемые вопросы]({{site.materialsurl}}general/faq)
-
-* * *
-
+ 
+ 
 Базовые модули
 ---------------------
 
@@ -31,9 +30,8 @@
 * [Работа с данными]({{site.materialsurl}}data_handling/data_handling)
 * [Работа с коллекциями в Java]({{site.materialsurl}}collections/collections)
 * [Работа с исключениями в Java]({{site.materialsurl}}exceptions/exceptions)
-
-* * *
-
+ 
+ 
 Продвинутые модули
 ---------------------
 
