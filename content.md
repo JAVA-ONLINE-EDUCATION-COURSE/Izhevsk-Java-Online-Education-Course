@@ -1,12 +1,8 @@
 Содержание курса
 ====================
-\n
 
 Правила и требования к обучению
 ---------------------
-
-
-
 
 ### Описание курса и старт обучения
 * [Описание курса]({{site.baseurl}})
@@ -19,6 +15,8 @@
 * [Критерии выставления оценки для практических работ]({{site.materialsurl}}general/practical_tasks_evaluation_rules)
 * [Типичные ошибки при выполнении практических работ]({{site.materialsurl}}general/typical_mistakes)
 * [Часто задаваемые вопросы]({{site.materialsurl}}general/faq)
+
+* * *
 
 Базовые модули
 ---------------------
@@ -33,6 +31,8 @@
 * [Работа с данными]({{site.materialsurl}}data_handling/data_handling)
 * [Работа с коллекциями в Java]({{site.materialsurl}}collections/collections)
 * [Работа с исключениями в Java]({{site.materialsurl}}exceptions/exceptions)
+
+* * *
 
 Продвинутые модули
 ---------------------
@@ -59,12 +59,5 @@
 
 ### Финальный проект
 * [Разработка финального проекта]({{site.materialsurl}}final_project/final_project)
-* [Прохождение итогового тестирования]({{site.materialsurl}}final_test/final_test)
+* [Прохождение итогового интервью]({{site.materialsurl}}final_test/final_interview)
 * [Завершение обучения]({{site.materialsurl}}next_steps/next_steps)
-
-### Дополнительные модули?
-* [Чистый код]({{site.materialsurl}}clean_code/clean_code)
-* [Обобщенные типы в Java]({{site.materialsurl}}generics/generics)
-* [Аннотации в Java]({{site.materialsurl}}annotations/annotations)
-* [Сериализация в Java]({{site.materialsurl}}serialization/serialization) <!---Добавить ссылку на модуль с JSON и XML -->
-* [Многопоточность в Java]({{site.materialsurl}}multithreading_basics/multithreading_basics)
