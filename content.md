@@ -50,7 +50,10 @@
 ### Фреймворк Spring MVC
 * [Фреймворк Spring MVC]({{site.materialsurl}}spring_mvc_framework/spring_mvc_framework)
 
-### Финальный проект
+Финальный проект
+---------------------
+
+### Разработка финального проекта
 * [Разработка финального проекта]({{site.materialsurl}}final_project/final_project)
 * [Прохождение итогового интервью]({{site.materialsurl}}final_test/final_interview)
 * [Завершение обучения]({{site.materialsurl}}next_steps/next_steps)
