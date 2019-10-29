@@ -1,7 +1,7 @@
 {% include header.md %}
 
 >
->**[Вернуться к описанию старта обучения]({{site.materialsurl}}general/education_start)**
+>**[Вернуться к описанию правил выполнения практических заданий]({{site.materialsurl}}general/practical_tasks_completing_rules)**
 >
 
 Типичные ошибки при выполнении практических работ
