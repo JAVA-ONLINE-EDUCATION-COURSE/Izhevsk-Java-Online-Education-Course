@@ -43,7 +43,7 @@
 
 >**Важно**: Еще раз обратите внимание на то, что вы обязательно должны сделать **"Fork"** с нашего репозитория с шаблоном.
 
-![practicaltasks]({{site.materialsurl}}general/img/practical-tasks-example.png)
+![practicaltasks]({{site.materialsurl}}general/img/practical-tasks-example-template.png)
 
 Запустить приложение, что запустит модуль проверки .........
 
