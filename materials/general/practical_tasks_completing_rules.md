@@ -67,7 +67,7 @@
 Создание pull-request-а
 ====================
 
-Если вы только что запиши изменения в репозиторий, github автоматически предложит создать pull-request для данной ветки по кнопке "**Compare & pull request**".  
+Если вы только что запушили изменения в репозиторий, github автоматически предложит создать pull-request для данной ветки по кнопке "**Compare & pull request**".  
 Если же изменения были запушены давно, можно создать pull-request по кнопке "**New pull request**".
 
 ![practicaltasks]({{site.materialsurl}}general/img/create-pull-request.png)
