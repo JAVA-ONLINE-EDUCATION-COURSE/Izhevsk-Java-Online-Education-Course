@@ -18,15 +18,20 @@
 ---------------------
 
 ### Задание №1
-1. Создать учетную запись на github (https://github.com/). Все последующие работы нужно будет сохранять в этой 
-учётной записи, в других репозиториях
-1. Установить и настроить git https://git-scm.com/downloads и клиент для него. Варианты:
-* [Tortoise GUT](https://tortoisegit.org/)
+1. Создайте учетную запись на [Github](https://github.com/).  
+Все последующие работы нужно будет сохранять в этой учётной записи, в других репозиториях.
+
+2. Установите и настройте [git](https://git-scm.com/downloads) и клиент для него.  
+Варианты клиентов:
 * [SourceTree](https://www.sourcetreeapp.com/)
+* [Tortoise GIT](https://tortoisegit.org/)
+* [Плагин в IntellijiIdea](https://plugins.jetbrains.com/plugin/3033-git-integration)
 * [GitKraken](https://www.gitkraken.com/)
 * [SmartGit](http://www.syntevo.com/smartgit/)
-* [Плагин в IntellijiIdea](https://plugins.jetbrains.com/plugin/3033-git-integration)
-1. Потренироваться работать в системе контроля версий. Создайте примитивный проект в своём репозитории, пару-тройку веток, 
+
+3. Потренируйтесь в работе с системой контроля версий.  
+Создайте новый репозиторий в своем аккаунте на Github.
+
 сделайте: 
 * push
 * merge с конфликтами слияния
