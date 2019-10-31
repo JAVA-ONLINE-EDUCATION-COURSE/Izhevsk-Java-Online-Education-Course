@@ -86,11 +86,12 @@
 
 ![practicaltasks]({{site.materialsurl}}general/img/create-pull-request-final.png)
 
-В итоге у вас откроется страничка pull-request-а.  
-При необходимости, вы можете оставлять к строчкам кода **комментарии**, котоыре будут видны проверяющему.
+В итоге у вас откроется страничка pull-request-а.
+
+При необходимости, вы можете оставлять к строчкам кода **комментарии**, которые будут видны проверяющему.
 
 ![practicaltasks]({{site.materialsurl}}general/img/create-pull-request-comments.png)
 
-Вам остается лишь закрыть **цели** и **подцели** по данной теме и в комментарии к **цели** указать ссылку на данный pull-request (например "https://github.com/JohnWick/java-basics-template/pull/1").
+Вам остается лишь закрыть **цели** и **подцели** по данной теме в Grow и в комментарии к **цели** указать ссылку на данный pull-request (например "https://github.com/JohnWick/java-basics-template/pull/1").
 
 После этого вы можете приступать к работе надо следующей целью.
