@@ -92,6 +92,6 @@
 
 ![practicaltasks]({{site.materialsurl}}general/img/create-pull-request-comments.png)
 
-Вам остается лишь закрыть **цели** и **подцели** по данной теме в Grow и в комментарии к **цели** указать ссылку на данный pull-request (например "https://github.com/JohnWick/java-basics-template/pull/1").
+Вам остается лишь закрыть **цели** и **подцели** по данной теме в Grow и в комментарии к **цели** указать ссылку на данный pull-request (например "https://github.com/TimurSokolov/java-basics-template/pull/1").
 
 После этого вы можете приступать к работе надо следующей целью.
