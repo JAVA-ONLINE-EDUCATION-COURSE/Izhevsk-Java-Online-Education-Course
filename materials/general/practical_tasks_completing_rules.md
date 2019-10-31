@@ -76,8 +76,10 @@
 
 ![practicaltasks]({{site.materialsurl}}general/img/create-pull-request-choose-repo.png)
 
-А также выбираете ветки для pull-request-а.  
-Целевую ветку "**master**" и ветку источник "**feature**". Если все сделано верно, у вас отобразятся изменения, которые вы сделали в "**feature**" ветке.  
+А также выбираете ветки для pull-request-а - целевую ветку "**master**" и ветку источник "**feature**".
+
+Если все сделано верно, у вас отобразятся изменения, которые вы сделали в "**feature**" ветке.
+
 После этого нажимаете "Create pull request".
 
 ![practicaltasks]({{site.materialsurl}}general/img/create-pull-request-choose-branch.png)
