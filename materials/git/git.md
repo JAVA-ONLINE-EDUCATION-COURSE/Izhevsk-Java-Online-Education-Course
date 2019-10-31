@@ -19,7 +19,8 @@
 Создайте учетную запись на **[Github](https://github.com/)**.  
 Все последующие практические работы нужно будет сохранять в этой учётной записи, в других репозиториях.
 
-Установите и настройте **[git](https://git-scm.com/downloads)** и клиент для него.  
+Установите и настройте **[git](https://git-scm.com/downloads)** и клиент для него.
+
 Варианты клиентов:
 * **[SourceTree](https://www.sourcetreeapp.com/)**
 * **[Tortoise GIT](https://tortoisegit.org/)**
