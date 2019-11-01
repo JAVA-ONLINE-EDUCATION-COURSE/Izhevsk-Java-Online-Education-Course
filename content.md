@@ -1,11 +1,12 @@
 Содержание курса  
 ====================
 
-### Описание курса и требований для старта обучения
+Описание курса, требований, правил и процессов
+---------------------
 * [Описание курса]({{site.baseurl}})
-* [Старт процесса обучения]({{site.materialsurl}}general/education_start)
 
-### Описание правил и процессов обучения
+### Описание правил и процессов
+* [Старт процесса обучения]({{site.materialsurl}}general/education_start)
 * [Правила работы с платформой Grow.by]({{site.materialsurl}}general/grow_intro)
 * [Правила работы с платформой Learn.by]({{site.materialsurl}}general/learn_intro)
 * [Правила выполнения практических заданий]({{site.materialsurl}}general/practical_tasks_completing_rules)
@@ -15,21 +16,25 @@
 
 Базовые модули
 ---------------------
-
-### Работа с системой контроля версий
+### Система контроля версий - Git
 * [Системы контроля версий - Git]({{site.materialsurl}}git/git)
 
-### Основы Java
+### Введение в Java и ООП
 * [Введение в платформу Java]({{site.materialsurl}}java_intro/java_intro)
 * [Базовые понятия Java]({{site.materialsurl}}java_basics/java_basics)
 * [Объектно ориентированное программирование (ООП)]({{site.materialsurl}}oop/oop)
+
+### Практика
+
+### Основы Java
 * [Работа с данными]({{site.materialsurl}}data_handling/data_handling)
 * [Работа с коллекциями в Java]({{site.materialsurl}}collections/collections)
 * [Работа с исключениями в Java]({{site.materialsurl}}exceptions/exceptions)
 
+### Практика
+
 Продвинутые модули
 ---------------------
-
 ### Сборка проектов
 * [Введение в сборщик проектов Maven]({{site.materialsurl}}maven/maven)
 
@@ -52,8 +57,10 @@
 
 Финальный проект
 ---------------------
-
 ### Разработка финального проекта
 * [Разработка финального проекта]({{site.materialsurl}}final_project/final_project)
+
+Завершение обучения
+---------------------
 * [Прохождение итогового интервью]({{site.materialsurl}}final_test/final_interview)
 * [Завершение обучения]({{site.materialsurl}}next_steps/next_steps)
