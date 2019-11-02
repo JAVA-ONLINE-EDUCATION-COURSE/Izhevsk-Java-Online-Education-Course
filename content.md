@@ -25,7 +25,7 @@
 * [Объектно ориентированное программирование (ООП)]({{site.materialsurl}}oop/oop)
 
 ### Закрепление навыков
-* [Написание программы: 20 спичек]({{site.materialsurl}}calculator/calculator)
+* [Написание программы: 20 спичек]({{site.materialsurl}}20_matches/20_matches)
 
 ### Основы Java
 * [Работа с данными]({{site.materialsurl}}data_handling/data_handling)
