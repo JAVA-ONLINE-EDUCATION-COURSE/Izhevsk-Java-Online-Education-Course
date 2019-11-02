@@ -5,9 +5,8 @@
 
 Материалы для самоподготовки
 ---------------------
-
 ### Основные материалы
-1. **[Курс по GIT](https://learn.by/courses/course-v1:EPAM+VCG+ext1/about)**
+1. **[Learn - Version control with GIT](https://learn.by/courses/course-v1:EPAM+VCG+ext1/about)**
 1. **[Отличная книга по GIT](https://git-scm.com/book/ru/v2)** (1, 2, 3, 5 главы обязательны для изучения)
 1. **[Удачная модель ветвления для Git](https://habr.com/ru/post/106912/)**
 

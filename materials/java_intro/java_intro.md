@@ -3,43 +3,32 @@
 Введение в платформу Java
 ====================
 
-Описание модуля
+Материалы для самоподготовки
 ---------------------
-В рамках данного модуля вы изучите основные знания, которые помогут вам написать свою первую программу на Java. Более того, 
-будут рассмотрены ниболее подходящие инструменты и техники для наиболее продуктивной работы.
+### Основные материалы
+1. [Learn - Java fundamentals](https://learn.by/courses/course-v1:EPAM+JF+ext1/about)
 
-IDE (Редакторы кода)
----------------------
-
-1. [Intelliji Idea](https://www.jetbrains.com/idea/) - рекомендуем использовать IDEA
-1. [Eclipse](https://www.eclipse.org/downloads/)
-1. [NET beans](https://netbeans.apache.org/download/index.html)
-
-Полезные ссылки
----------------------
-+ [Как поставить Java локально](https://www.w3schools.com/java/java_getstarted.asp)
-+ [Горячие клавиши в Intelliji Idea](./Intelliji_idea_shortcuts.pdf)
-+ [Java Google codestyle](https://google.github.io/styleguide/javaguide.html)
+### Дополнительные материалы
+1. [Как поставить Java локально](https://www.w3schools.com/java/java_getstarted.asp)
+1. [Горячие клавиши в Intelliji Idea](./Intelliji_idea_shortcuts.pdf)
+1. [Java Google codestyle](https://google.github.io/styleguide/javaguide.html)
 
 Практическая работа
 ---------------------
-
 >**Важно**: Вспомните еще раз **[правила]({{site.materialsurl}}general/practical_tasks_completing_rules)** выполнения практических заданий при работе с готовыми шаблонами приложений
 
-### Задание №1
 Установите [JDK 1.8+](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) себе 
 на рабочую машину. Убедитесь, что JAVA_HOME прописан и из консоли вы можете вызвать утилиты JDK. 
 
-### Задание №2
-Установите себе одну из IDE. Поупражняйтесь в ней делать следующие вещи:
+Установите IDE (редактор кода).  
+Рекомендуем использовать [Intelliji Idea](https://www.jetbrains.com/idea/).
+
+Поупражняйтесь в ней делать следующие вещи:
 + Импортировать проект
 + Создавать проект с 0
 + Создавать классы
 + Запускать код
 + Дебажить код
-
-### Задание №3
-
 
 Вопросы для самоконтроля
 ---------------------
