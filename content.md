@@ -24,14 +24,16 @@
 * [Базовые понятия Java]({{site.materialsurl}}java_basics/java_basics)
 * [Объектно ориентированное программирование (ООП)]({{site.materialsurl}}oop/oop)
 
-### Практика
+### Закрепление навыков
+* [Написание программы: 20 спичек]({{site.materialsurl}}calculator/calculator)
 
 ### Основы Java
 * [Работа с данными]({{site.materialsurl}}data_handling/data_handling)
 * [Работа с коллекциями в Java]({{site.materialsurl}}collections/collections)
 * [Работа с исключениями в Java]({{site.materialsurl}}exceptions/exceptions)
 
-### Практика
+### Закрепление навыков
+* [Написание программы: Калькулятор]({{site.materialsurl}}calculator/calculator)
 
 Продвинутые модули
 ---------------------
