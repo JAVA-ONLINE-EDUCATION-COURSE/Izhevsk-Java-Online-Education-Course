@@ -7,6 +7,7 @@
 ---------------------
 ### Основные материалы
 1. [Learn - Java fundamentals](https://learn.by/courses/course-v1:EPAM+JF+ext1/about) (только раздел GETTING STARTED)
+1. [Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM](https://habr.com/ru/post/471772/)
 
 ### Дополнительные материалы
 1. [Как поставить Java локально](https://www.w3schools.com/java/java_getstarted.asp)

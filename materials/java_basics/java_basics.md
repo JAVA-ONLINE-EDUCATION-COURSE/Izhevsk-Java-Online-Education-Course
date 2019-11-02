@@ -11,7 +11,6 @@
 ---------------------
 ### Основные материалы
 1. [Learn - Java fundamentals](https://learn.by/courses/course-v1:EPAM+JF+ext1/about)
-1. [Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM](https://habr.com/ru/post/471772/)
 
 ### Дополнительные материалы
 1. [Основы джавы часть 1](https://www.youtube.com/watch?v=V9qzo32u0Z4)
