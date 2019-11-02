@@ -17,11 +17,11 @@
 ---------------------
 >**Важно**: Вспомните еще раз **[правила]({{site.materialsurl}}general/practical_tasks_completing_rules)** выполнения практических заданий при работе с готовыми шаблонами приложений
 
-Установите [JDK 1.8+](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) себе 
+Установите **[JDK 1.8+](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)** себе 
 на рабочую машину. Убедитесь, что JAVA_HOME прописан и из консоли вы можете вызвать утилиты JDK. 
 
 Установите IDE (редактор кода).  
-Рекомендуем использовать [Intelliji Idea](https://www.jetbrains.com/idea/).
+Рекомендуем использовать **[Intelliji Idea](https://www.jetbrains.com/idea/)**.
 
 Поупражняйтесь в ней делать следующие вещи:
 + Импортировать проект
