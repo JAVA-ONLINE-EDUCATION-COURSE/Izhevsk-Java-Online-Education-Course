@@ -6,9 +6,9 @@
 Материалы для самоподготовки
 ---------------------
 ### Основные материалы
-1. **[Learn - Version control with GIT](https://learn.by/courses/course-v1:EPAM+VCG+ext1/about)**
-1. **[Отличная книга по GIT](https://git-scm.com/book/ru/v2)** (1, 2, 3, 5 главы обязательны для изучения)
-1. **[Удачная модель ветвления для Git](https://habr.com/ru/post/106912/)**
+1. [Learn - Version control with GIT](https://learn.by/courses/course-v1:EPAM+VCG+ext1/about)
+1. [Отличная книга по GIT](https://git-scm.com/book/ru/v2) (1, 2, 3, 5 главы обязательны для изучения)
+1. [Удачная модель ветвления для Git](https://habr.com/ru/post/106912/)
 
 ### Дополнительные материалы
 1. **[Приложение для тренировки навыков работы в GIT](https://learngitbranching.js.org/)**
@@ -21,11 +21,11 @@
 Установите и настройте **[git](https://git-scm.com/downloads)** и клиент для него.
 
 Варианты клиентов:
-* **[SourceTree](https://www.sourcetreeapp.com/)**
-* **[Tortoise GIT](https://tortoisegit.org/)**
-* **[Плагин в IntellijiIdea](https://plugins.jetbrains.com/plugin/3033-git-integration)**
-* **[GitKraken](https://www.gitkraken.com/)**
-* **[SmartGit](http://www.syntevo.com/smartgit/)**
+* [SourceTree](https://www.sourcetreeapp.com/)
+* [Tortoise GIT](https://tortoisegit.org/)
+* [Плагин в IntellijiIdea](https://plugins.jetbrains.com/plugin/3033-git-integration)
+* [GitKraken](https://www.gitkraken.com/)
+* [SmartGit](http://www.syntevo.com/smartgit/)
 
 Потренируйтесь в работе с системой контроля версий.  
 
