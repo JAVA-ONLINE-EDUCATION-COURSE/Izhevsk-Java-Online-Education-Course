@@ -6,7 +6,7 @@
 Материалы для самоподготовки
 ---------------------
 ### Основные материалы
-1. [Learn - Java fundamentals](https://learn.by/courses/course-v1:EPAM+JF+ext1/about)
+1. [Learn - Java fundamentals](https://learn.by/courses/course-v1:EPAM+JF+ext1/about) (только раздел GETTING STARTED)
 
 ### Дополнительные материалы
 1. [Как поставить Java локально](https://www.w3schools.com/java/java_getstarted.asp)
