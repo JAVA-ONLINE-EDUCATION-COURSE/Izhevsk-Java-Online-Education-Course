@@ -35,4 +35,4 @@
   + Добавьте класс для логики компьютера
 
 ### Пример работы программы
-![grow]({{site.materialsurl}}20_matches/img/20_matches.png)
+![20_matches]({{site.materialsurl}}20_matches/img/out-example.png)
