@@ -7,9 +7,13 @@ body {
 }
 
 #main_content {
-  max-width: 800px;
+  max-width: 840px;
 }
 
-#project_title {
-  
+.inner {
+  max-width: 900px;
+}
+
+#forkme_banner {
+  display: none;
 }
