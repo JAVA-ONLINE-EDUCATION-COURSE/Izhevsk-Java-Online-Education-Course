@@ -9,8 +9,8 @@
 
 Материалы для самоподготовки
 ---------------------
-1. [Видео: создание аннотаций](https://www.youtube.com/watch?v=9BbxPd3GPeU)
-1. [Видео: использование Reflection API при работе с аннотациями](https://www.youtube.com/watch?v=y8gkmqFvybs)
+1. [Видео: создание аннотаций](https://www.youtube.com/watch?v=9BbxPd3GPeU){:target="_blank"}
+1. [Видео: использование Reflection API при работе с аннотациями](https://www.youtube.com/watch?v=y8gkmqFvybs){:target="_blank"}
 
 Практическая работа
 ---------------------
@@ -20,6 +20,3 @@
 Вопросы для самоконтроля
 ---------------------
 1. Назовите основные интерфейсы коллекций и их имплементации.
-
-
-

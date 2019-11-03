@@ -2,11 +2,11 @@
 
 Работа с данными
 ====================
+//TODO добавить материалы
 
 Материалы для самоподготовки
 ---------------------
 1. [Курс на Learn.by I/O](https://learn.by/courses/course-v1:EPAM+JIO+ext1/about)
-1. [Курс на Learn.by о строках](https://learn.by/courses/course-v1:EPAM+JF+ext1/about)
 1. ...
 
 Практическая работа

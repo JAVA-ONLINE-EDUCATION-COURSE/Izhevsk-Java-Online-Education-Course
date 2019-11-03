@@ -2,10 +2,14 @@
 
 Работа с коллекциями в Java
 ====================
+//TODO убрать 2 и 3 задание в практике
 
 Материалы для самоподготовки
 ---------------------
 1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+JColl+ext1/about)
+
+Дополнительные материалы
+---------------------
 1. [Общий справочник по Java Collections Framework](https://habrahabr.ru/post/237043/)
 1. [Обзор коллекции ArrayList](http://habrahabr.ru/post/128269/)
 1. [Обзор коллекции LinkedList](http://habrahabr.ru/post/127864/)
