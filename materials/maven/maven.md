@@ -3,8 +3,6 @@
 Введение в сборщик проектов Maven
 ====================
 
-//TODO убрать ломбок из зависимостей + добавить плаги для джавадоков + добавить мавенцентрал
-
 ### Основные материалы
 ---------------------
 1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+MBT+ext1/about)
@@ -27,38 +25,38 @@
 1. В секции зависимостей добавьте `commons-lang`, из группы зависимостей `apache`. На сайте `mvn central` подберите 
 наибольшую версию для этой зависимости. В Main попробуйте вызвать какую-нибудь функцию из этой библиотеки, например 
 `org.apache.commons.text.WordUtils.capitalize(text)`.
-1. В секции зависимостей добавьте `org.projectlombok.lombok`. Эта зависимость необходима нам только на стадии компиляции,
-поэтому нам нужно изменить её scope на более подходящий.
 1. Выполните фазу мавена под названием `package`. Проверьте наличие и содержание папки `target` в директории проекта.
 1. Добавьте плагин в `pom.xml`
-```xml
-    <plugin>
-        <artifactId>maven-assembly-plugin</artifactId>
-        <configuration>
-            <archive>
-                <manifest>
-                    <mainClass>...</mainClass> <!-- Объявляем наш Main Class -->
-                </manifest>
-            </archive>
-            <descriptorRefs>
-                <descriptorRef>jar-with-dependencies</descriptorRef>  <!-- Объявляем имя для jar -->
-            </descriptorRefs>
-        </configuration>
-        <executions>
-            <execution>
-                <id>make-assembly</id>
-                <phase>package</phase> <!-- Привязываем выполнение плагина к конкретной фазе мавена -->
-                <goals>
-                    <goal>single</goal>
-                </goals>
-            </execution>
-        </executions>
-    </plugin>
-```
+    ```xml
+        <plugin>
+            <artifactId>maven-assembly-plugin</artifactId>
+            <configuration>
+                <archive>
+                    <manifest>
+                        <mainClass>...</mainClass> <!-- Объявляем наш Main Class -->
+                    </manifest>
+                </archive>
+                <descriptorRefs>
+                    <descriptorRef>jar-with-dependencies</descriptorRef>  <!-- Объявляем имя для jar -->
+                </descriptorRefs>
+            </configuration>
+            <executions>
+                <execution>
+                    <id>make-assembly</id>
+                    <phase>package</phase> <!-- Привязываем выполнение плагина к конкретной фазе мавена -->
+                    <goals>
+                        <goal>single</goal>
+                    </goals>
+                </execution>
+            </executions>
+        </plugin>
+    ```
 1. Выполните команду `mvn clean package`
 1. Откройте получившийся архив `...-1.0-SNAPSHOT-jar-with-dependencies.jar` Проверьте наличие там таких
-пакетов, как `org.apache.commons` и `org.projectlombok`. Почему вторая зависимость не попала в наш конечный артефакт?
+пакетов, из группы `org.apache.commons`.
 1. Выполните команду `mvn clean install`. В чем её отличие от предыдущей?
+1. Добавьте в ваш pom.xml `Maven Javadoc Plugin`. Добавьте джавадок к методу Main и выполните `javadoc:javadoc`. Проверьте
+успешность выполенния плагина
 
 Вопросы для самоконтроля
 ---------------------
