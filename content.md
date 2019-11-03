@@ -34,7 +34,7 @@
 * [Работа с исключениями в Java]({{site.materialsurl}}exceptions/exceptions)
 
 ### Закрепление навыков
-* [Написание программы: Криптография]({{site.materialsurl}}20_matches/20_matches)//TODO криптография 2 задания: придумать свой алгоритм и расшифровать текст брутфорсом
+* [Написание программы: Криптография]({{site.materialsurl}}cryptography/cryptography)
 * [Написание программы: Калькулятор]({{site.materialsurl}}calculator/calculator)
 
 Продвинутые модули
