@@ -23,18 +23,20 @@
 * [Введение в платформу Java]({{site.materialsurl}}java_intro/java_intro)
 * [Базовые понятия Java]({{site.materialsurl}}java_basics/java_basics)
 * [Объектно ориентированное программирование (ООП)]({{site.materialsurl}}oop/oop)
-* [Архитектура типичного бизнес-приложения]({{site.materialsurl}}basic_architecture/basic_architecture) //TODO
+* [Работа с данными]({{site.materialsurl}}data_handling/data_handling)
+
+### Проектирование и дизайн
+* [Основы проектирования и дизайна]({{site.materialsurl}}design_basics/design_basics)
 
 ### Закрепление навыков
 * [Написание программы: 20 спичек]({{site.materialsurl}}20_matches/20_matches)
+* [Написание программы: Шифр Цезаря]({{site.materialsurl}}caesar_cipher/caesar_cipher)
 
 ### Основы Java
-* [Работа с данными]({{site.materialsurl}}data_handling/data_handling)
 * [Работа с коллекциями в Java]({{site.materialsurl}}collections/collections)
 * [Работа с исключениями в Java]({{site.materialsurl}}exceptions/exceptions)
 
 ### Закрепление навыков
-* [Написание программы: Криптография]({{site.materialsurl}}cryptography/cryptography)
 * [Написание программы: Калькулятор]({{site.materialsurl}}calculator/calculator)
 
 Продвинутые модули

@@ -13,15 +13,18 @@
 1. [Общий справочник по Java Collections Framework](https://habrahabr.ru/post/237043/)
 1. [Обзор коллекции ArrayList](http://habrahabr.ru/post/128269/)
 1. [Обзор коллекции LinkedList](http://habrahabr.ru/post/127864/)
+1. [Java собеседование. Коллекции](https://habr.com/ru/post/162017/)
 1. [Обзор коллекции HashMap](http://habrahabr.ru/post/128017/)
 1. [Видео: коллекции в Java](https://www.youtube.com/watch?v=7gws2decf2g)
 1. [Видео: HashSet и TreeSet](https://www.youtube.com/watch?v=-S_huEuNJiU)
 1. [Видео: реалзиации интерфейса Map](https://www.youtube.com/watch?v=5Iu4ZUcrJ0g)
 1. [Видео: очередь и приоритетная очередь](https://www.youtube.com/watch?v=5_f5foEXiYY)
+1. [Пришел, увидел, обобщил: погружаемся в Java Generics](https://habr.com/ru/company/sberbank/blog/416413/)
 1. [Видео: многопоточные коллекции](https://www.youtube.com/watch?v=-yQeYo32Lt4)
 1. [Видео: блокирующая очередь](https://www.youtube.com/watch?v=nUYOGkh9XqE)
 1. *[Видео: Stream Api (Часть 1)](https://www.youtube.com/watch?v=O8oN4KSZEXE)
 1. *[Видео: Stream Api (Часть 2)](https://www.youtube.com/watch?v=i0Jr2l3jrDA)
+https://habr.com/ru/company/luxoft/blog/270383/
 
 Практическая работа
 ---------------------

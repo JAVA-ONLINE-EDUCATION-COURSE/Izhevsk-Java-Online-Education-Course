@@ -10,6 +10,7 @@
 1. [Презентация по Spring Core](./presentations/Spring%20Core.pptx)
 1. [Видеоуроки](https://www.youtube.com/watch?v=3wBteulZaAs&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t)
 1. [Документация на русском](http://spring-projects.ru/projects/spring-framework/)
+https://habr.com/ru/company/infopulse/blog/150563/
 
 Практическая работа
 ---------------------
