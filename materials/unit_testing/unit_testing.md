@@ -18,7 +18,7 @@
 который вы имплементировали двумя темами ранее.
 
 Вам необходимо:
-+ Добавить в pom.xml [Junit4](https://junit.org/junit4/) или [Junit5](https://junit.org/junit5/docs/current/user-guide/)
++ Добавить в `pom.xml` [Junit4](https://junit.org/junit4/) или [Junit5](https://junit.org/junit5/docs/current/user-guide/)
 с нужным скоупом.
 + Покрыть код калькулятора тестами. Вам необходимо учесть не только позитивные сценарии, но и негативные. Сгруппируйте 
 их в отдельные тест сьюты.
