@@ -8,16 +8,16 @@
 Материалы для самоподготовки
 ---------------------
 1. [Презентация по Spring MVC](./presentations/spring_mvc.pptx)
-1. [Книга по Spring MVC](./books/spring_for_professionals.pdf)
-1. [Спринг по-русски](http://spring-projects.ru/guides/serving-web-content/)
-1. [Спринг по-русски (валидация)](http://spring-projects.ru/guides/validating-form-input/)
-1. [Спринг по-русски (безопасность)](http://spring-projects.ru/guides/securing-web/)
-1. [Спринг по-русски (jdbc)](http://spring-projects.ru/guides/relational-data-access/)
-1. [Шаблон финального проекта](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/final-project-template)
+1. [Книга по Spring MVC](./books/spring_for_professionals.pdf){:target="_blank"}
+1. [Спринг по-русски](http://spring-projects.ru/guides/serving-web-content/){:target="_blank"}
+1. [Спринг по-русски (валидация)](http://spring-projects.ru/guides/validating-form-input/){:target="_blank"}
+1. [Спринг по-русски (безопасность)](http://spring-projects.ru/guides/securing-web/){:target="_blank"}
+1. [Спринг по-русски (jdbc)](http://spring-projects.ru/guides/relational-data-access/){:target="_blank"}
+1. [Шаблон финального проекта](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/final-project-template){:target="_blank"}
 
 Практическая работа
 ---------------------
-[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/spring-mvc-template)
+[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/spring-mvc-template){:target="_blank"}
 
 Вопросы для самоконтроля
 ---------------------

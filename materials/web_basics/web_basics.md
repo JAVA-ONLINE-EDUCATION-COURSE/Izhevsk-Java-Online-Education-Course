@@ -11,11 +11,11 @@
 
 Материалы для самоподготовки
 ---------------------
-1. [Прочитать основной tutorial и раздел “Forms”](http://www.w3schools.com/html)
-1. [Про CSS3 и дальше можно не читать](http://www.w3schools.com/css)
-1. [Про объекты и функции читать осторожно - сильно не погружаться](http://www.w3schools.com/js)
-1. [Удобно использовать для оформления таблички, сортировки и т.п.](http://www.w3schools.com/jquery) 
-1. [Отличный JS учебник](https://learn.javascript.ru/) 
+1. [Прочитать основной tutorial и раздел “Forms”](http://www.w3schools.com/html){:target="_blank"}
+1. [Про CSS3 и дальше можно не читать](http://www.w3schools.com/css){:target="_blank"}
+1. [Про объекты и функции читать осторожно - сильно не погружаться](http://www.w3schools.com/js){:target="_blank"}
+1. [Удобно использовать для оформления таблички, сортировки и т.п.](http://www.w3schools.com/jquery) {:target="_blank"}
+1. [Отличный JS учебник](https://learn.javascript.ru/) {:target="_blank"}
 1. [Презентация по HTML](./presentations/HTML%20Basics.pptx)
 1. [Презентация по JS](./presentations/JS%20Core.pptx)
 1. [Презентация по CSS](./presentations/CSS%20Basics.pptx)
@@ -24,7 +24,7 @@
 ---------------------
 
 ### Задание №1
-[Прототип в Figma](https://www.figma.com/proto/dJjzWj4NYIaVPPpJu3pmnX/Final-project-template?node-id=5%3A36&viewport=1687%2C919%2C0.25323522090911865&scaling=min-zoom)
+[Прототип в Figma](https://www.figma.com/proto/dJjzWj4NYIaVPPpJu3pmnX/Final-project-template?node-id=5%3A36&viewport=1687%2C919%2C0.25323522090911865&scaling=min-zoom){:target="_blank"}
 
 В зависимости от задачи, требования к сайту могут различаться.
 Здесь все зависит от вас. Вы сами выбираете, как расположить и оформить элементы на сайте, как оформить меню и 
@@ -100,11 +100,11 @@
     2. поместите в него каталог src
     3. добавьте `src/css`, `src/js`, в `src/` будут `html` файлы
 1. Запустите какой-нибудь легковесный web-сервер на каталоге `src/` например 
-[такой](https://www.npmjs.com/package/http-server)
+[такой](https://www.npmjs.com/package/http-server){:target="_blank"}
 1. Создайте `index.html`
 1. Верстка страницы
 1. Используйте CSS для оформления
-1. Используйте Javascript (желательно и проще использовать [JQuery](https://jquery.com/))
+1. Используйте Javascript (желательно и проще использовать [JQuery](https://jquery.com/){:target="_blank"})
 
 Вопросы для самоконтроля
 ---------------------

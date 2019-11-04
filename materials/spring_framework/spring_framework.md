@@ -8,13 +8,13 @@
 Основные материалы
 ---------------------
 1. [Презентация по Spring Core](./presentations/Spring%20Core.pptx)
-1. [Видеоуроки](https://www.youtube.com/watch?v=3wBteulZaAs&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t)
-1. [Документация на русском](http://spring-projects.ru/projects/spring-framework/)
+1. [Видеоуроки](https://www.youtube.com/watch?v=3wBteulZaAs&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t){:target="_blank"}
+1. [Документация на русском](http://spring-projects.ru/projects/spring-framework/){:target="_blank"}
 https://habr.com/ru/company/infopulse/blog/150563/
 
 Практическая работа
 ---------------------
-[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/spring-core-template)
+[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/spring-core-template){:target="_blank"}
 
 Вопросы для самоконтроля
 ---------------------

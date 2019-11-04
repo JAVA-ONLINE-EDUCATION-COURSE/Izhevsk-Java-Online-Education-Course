@@ -11,10 +11,10 @@
 
 Материалы для самоподготовки
 ---------------------
-1. [Обзор всех инструментов разработчика Chrome DevTools](https://habr.com/ru/company/simbirsoft/blog/337116/)
+1. [Обзор всех инструментов разработчика Chrome DevTools](https://habr.com/ru/company/simbirsoft/blog/337116/){:target="_blank"}
 1. [Презентация HTTP](./presentations/HTTP.pdf)
-1. [Документация от mozilla](https://developer.mozilla.org/ru/docs/Web/HTTP)
-1. [Статья на Хабре](https://habr.com/ru/post/215117/)
+1. [Документация от mozilla](https://developer.mozilla.org/ru/docs/Web/HTTP){:target="_blank"}
+1. [Статья на Хабре](https://habr.com/ru/post/215117/){:target="_blank"}
 
 Практическая работа
 ---------------------

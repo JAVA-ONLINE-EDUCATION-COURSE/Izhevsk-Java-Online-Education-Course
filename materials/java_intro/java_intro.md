@@ -8,19 +8,19 @@
 Материалы для самоподготовки
 ---------------------
 ### Основные материалы
-1. [Learn - Java fundamentals](https://learn.by/courses/course-v1:EPAM+JF+ext1/about) (только раздел GETTING STARTED)
-1. [Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM](https://habr.com/ru/post/471772/)
+1. [Learn - Java fundamentals](https://learn.by/courses/course-v1:EPAM+JF+ext1/about){:target="_blank"} (только раздел GETTING STARTED)
+1. [Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM](https://habr.com/ru/post/471772/){:target="_blank"}
 
 ### Дополнительные материалы
-1. [Как поставить Java локально](https://www.w3schools.com/java/java_getstarted.asp)
-1. [Горячие клавиши в Intelliji Idea](./Intelliji_idea_shortcuts.pdf)
-1. [Java Google codestyle](https://google.github.io/styleguide/javaguide.html)
+1. [Как поставить Java локально](https://www.w3schools.com/java/java_getstarted.asp){:target="_blank"}
+1. [Горячие клавиши в Intelliji Idea](./Intelliji_idea_shortcuts.pdf){:target="_blank"}
+1. [Java Google codestyle](https://google.github.io/styleguide/javaguide.html){:target="_blank"}
 
 Практическая работа
 ---------------------
 >**Важно**: Вспомните еще раз **[правила]({{site.materialsurl}}general/practical_tasks_completing_rules)** выполнения практических заданий при работе с готовыми шаблонами приложений
 
-Установите **[JDK 1.8+](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)** себе 
+Установите **[JDK 1.8+](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html){:target="_blank"}** себе 
 на рабочую машину.  
 Убедитесь, что JAVA_HOME прописан и из консоли вы можете вызвать утилиты JDK. 
 

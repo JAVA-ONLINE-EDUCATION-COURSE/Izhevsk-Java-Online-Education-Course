@@ -15,12 +15,11 @@
 1. [Презентация Проектирование БД](presentations/ПроектированиеБД.pptx)
 1. [Презентация Проектирования РБД](presentations/ОИТ%20=%20Лекция%2007a%20=%20Проектирование%20РБД.pdf)
 1. [Презентация Язык SQL](presentations/ОИТ%20=%20Лекция%2007б%20=%20Язык%20SQL.pdf)
-1. [Курс на w3schools](https://www.w3schools.com/sql/default.asp)
-1. [ПО для выполнения задания (MySQL)](https://dev.mysql.com/downloads/installer/) 
+1. [Курс на w3schools](https://www.w3schools.com/sql/default.asp){:target="_blank"}
+1. [ПО для выполнения задания (MySQL)](https://dev.mysql.com/downloads/installer/){:target="_blank"}
 
 Практическая работа
 ---------------------
-
 ### Задание №1
 1. Создать схему БД «Интернет-аукцион» в соответствии со следующей EER-диаграммой:
 ![alt text](schemas/db_scheme_2.png)

@@ -5,13 +5,13 @@
 
 ### Основные материалы
 ---------------------
-1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+MBT+ext1/about)
+1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+MBT+ext1/about){:target="_blank"}
 
 ### Дополнительные материалы
 ---------------------
-1. [Видео: Ant и Maven](https://www.youtube.com/watch?v=ouUuT2uEuiU)
-1. [Перевод документации мавена](https://www.apache-maven.ru/)
-1. [Туториалы по мавену](https://proselyte.net/tutorials/maven/)
+1. [Видео: Ant и Maven](https://www.youtube.com/watch?v=ouUuT2uEuiU){:target="_blank"}
+1. [Перевод документации мавена](https://www.apache-maven.ru/){:target="_blank"}
+1. [Туториалы по мавену](https://proselyte.net/tutorials/maven/){:target="_blank"}
 
 Практическая работа
 ---------------------

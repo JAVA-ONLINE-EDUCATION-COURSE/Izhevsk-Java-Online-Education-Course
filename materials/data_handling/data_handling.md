@@ -5,17 +5,17 @@
 
 Основные материалы
 ---------------------
-1. [Курс на Learn.by I/O](https://learn.by/courses/course-v1:EPAM+JIO+ext1/about)
+1. [Курс на Learn.by I/O](https://learn.by/courses/course-v1:EPAM+JIO+ext1/about){:target="_blank"}
 
 Дополнительные материалы
 ---------------------
-1. [Habrahabr: Основные отличия Java IO и Java NIO](https://habr.com/ru/post/235585/)
-1. [Habrahabr: Java и время](https://habr.com/ru/post/274905/)
-1. [Habrahabr: Регулярные выражения, пособие для новичков](https://habr.com/ru/post/115825/)
+1. [Habrahabr: Основные отличия Java IO и Java NIO](https://habr.com/ru/post/235585/){:target="_blank"}
+1. [Habrahabr: Java и время](https://habr.com/ru/post/274905/){:target="_blank"}
+1. [Habrahabr: Регулярные выражения, пособие для новичков](https://habr.com/ru/post/115825/){:target="_blank"}
 
 Практическая работа
 ---------------------
-[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/java-data-handling-template)
+[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/java-data-handling-template){:target="_blank"}
 
 Вопросы для самоконтроля
 ---------------------
