@@ -9,6 +9,7 @@
 
 ### Дополнительные материалы
 ---------------------
+http://tutorials.jenkov.com/maven/maven-tutorial.html
 1. [Видео: Ant и Maven](https://www.youtube.com/watch?v=ouUuT2uEuiU){:target="_blank"}
 1. [Перевод документации мавена](https://www.apache-maven.ru/){:target="_blank"}
 1. [Туториалы по мавену](https://proselyte.net/tutorials/maven/){:target="_blank"}

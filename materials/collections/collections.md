@@ -12,6 +12,7 @@
 1. [Habrahabr: Обзор коллекции LinkedList](http://habrahabr.ru/post/127864/){:target="_blank"}
 1. [Habrahabr: Обзор коллекции HashMap](http://habrahabr.ru/post/128017/){:target="_blank"}
 1. [Habrahabr: Java собеседование. Коллекции](https://habr.com/ru/post/162017/){:target="_blank"}
+1. [Jenkov: Java Collections Tutorial](http://tutorials.jenkov.com/java-collections/index.html){:target="_blank"}
 
 ### Основные материалы - Java Generics
 1. [Habrahabr: Пришел, увидел, обобщил: погружаемся в Java Generics](https://habr.com/ru/company/sberbank/blog/416413/){:target="_blank"}
@@ -21,7 +22,7 @@
 1. [Видео: Stream Api (Часть 2)](https://www.youtube.com/watch?v=i0Jr2l3jrDA){:target="_blank"}
 1. [Java 8 Stream Tutorial](https://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/){:target="_blank"}
 
-### Дополнительные материалы
+### Дополнительные материалы - Java Stream Api
 1. [Habrahabr: Шпаргалка Java программиста. Java Stream API](https://habr.com/ru/company/luxoft/blog/270383/){:target="_blank"}
 
 Практическая работа

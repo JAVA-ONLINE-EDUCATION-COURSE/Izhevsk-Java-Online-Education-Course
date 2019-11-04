@@ -28,6 +28,7 @@
 Рекомендуем использовать **[Intelliji Idea](https://www.jetbrains.com/idea/)**.
 
 Поупражняйтесь в нем делать следующие вещи:
+http://tutorials.jenkov.com/java/your-first-java-app.html
 + Создайте с нуля проект Hello World, запустите, убедитесь, что программа запускается
 + Создавать проект с 0
 + Создавать классы
