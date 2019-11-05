@@ -26,6 +26,18 @@ img {
   max-width: 840px;
 }
 
+#menu {
+    position: relative;
+    overflow: hidden;
+    height: 40px;
+}
+
+#navbar {
+  height: 30px;
+  background-color: #666;
+  padding-left: 25px;
+  min-width: 470px;
+}
 #navbar {
   height: 30px;
   background-color: #666;
