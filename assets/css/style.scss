@@ -26,18 +26,21 @@ img {
   max-width: 840px;
 }
 
-span .epam-style-bracket {
+#header_wrap .inner {
+  padding: 50px 10px 0px 10px;
+}
+
+header span.epam-style-bracket {
   color: #37c2d7;
 }
 
 /** Менюшка **/
 #mainmenu {
   position: relative;
-  background: #444444;
+  background: linear-gradient(to top, #373737, #323232);
   height: 40px;
-  margin: 30px 0;
+  margin-top: 30px;
   padding: 0;
-  float: left;
   width: 100%;
   z-index: 10
 }
