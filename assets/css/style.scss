@@ -26,28 +26,31 @@ img {
   max-width: 840px;
 }
 
-#navbar ul {
-  display: none;
-  background-color: #f90;
-  position: absolute;
-  top: 100%;
-}
-#navbar li:hover ul { display: block; }
-#navbar, #navbar ul {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-}
 #navbar {
   height: 30px;
   background-color: #666;
   padding-left: 25px;
   min-width: 470px;
 }
+#navbar ul {
+  display: none;
+  position: relative;
+  left: 50%;
+  float: left;
+}
 #navbar li {
   float: left;
   position: relative;
+  left: -50%;
   height: 100%;
+}
+#navbar li:hover ul {
+  display: block;
+}
+#navbar, #navbar ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
 }
 #navbar li a {
   display: block;
@@ -57,6 +60,12 @@ img {
   text-decoration: none;
   text-align: center;
 }
-#navbar ul li { float: none; }
-#navbar li:hover { background-color: #f90; }
-#navbar ul li:hover { background-color: #666; }
+#navbar ul li {
+  float: none;
+}
+#navbar li:hover {
+  background-color: #f90;
+}
+#navbar ul li:hover {
+  background-color: #666;
+}
