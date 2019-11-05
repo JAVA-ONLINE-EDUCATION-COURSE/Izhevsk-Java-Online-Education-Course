@@ -96,10 +96,10 @@ header span.epam-style-bracket {
   visibility: hidden;
   padding: 0;
   margin: 0;
-  width: 200px;
+  width: 300px;
 }
 #mainmenu > ul > li ul li {
-  background-color: #666;
+  background-color: #404040;
   position: relative;
   left: 0;
   display: list-item;
@@ -109,10 +109,10 @@ header span.epam-style-bracket {
   text-align: left;
 }
 #mainmenu ul li ul li a {
-  border-bottom: 1px solid #999;
+  border-bottom: 1px solid #464646;
   display: block;
   color: #fff;
-  padding: 10px 15px;
+  padding: 5px 15px;
   text-decoration: none;
 }
 #mainmenu ul li ul li.parent a {
@@ -131,7 +131,7 @@ header span.epam-style-bracket {
   width: 6px;
 }
 #mainmenu ul li ul li:hover {
-  background-color: #404040;
+  background-color: #333333;
 }
 #mainmenu ul li:hover ul, #mainmenu ul li.hover ul {
   display: block;
