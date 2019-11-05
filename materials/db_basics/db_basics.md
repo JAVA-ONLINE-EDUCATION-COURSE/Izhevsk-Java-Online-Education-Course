@@ -2,31 +2,41 @@
 
 Основы баз данных и SQL
 ====================
-//добавить задание из sql-ex.ru по SELECT и DML
 
 Материалы для самоподготовки
 ---------------------
-### Основные материалы - Java Strings and RegExp
+### Основные материалы - SQL
 1. [Презентация Реляционные базы данных](presentations/РБД%20и%20SQL_2018.pptx)
 1. [Презентация Проектирование БД](presentations/ПроектированиеБД.pptx)
-1. [Презентация Проектирования РБД](presentations/ОИТ%20=%20Лекция%2007a%20=%20Проектирование%20РБД.pdf)
 1. [Презентация Язык SQL](presentations/ОИТ%20=%20Лекция%2007б%20=%20Язык%20SQL.pdf)
 1. [Курс на w3schools](https://www.w3schools.com/sql/default.asp){:target="_blank"}
-1. [ПО для выполнения задания (MySQL)](https://dev.mysql.com/downloads/installer/){:target="_blank"}
-### Дополнительные материалы - Java Strings and RegExp
+
+https://www.w3schools.com/sql/default.asp W3School 
+http://www.sql-tutorial.ru/ учебник SQL на русском
+https://dev.mysql.com/doc/refman/5.7/en/sql-syntax.html документация MySQL
+
+https://habrahabr.ru/post/254773/ Нормальные формы
+
+http://info-comp.ru/sisadminst/448-installing-mysql-5-6-23-windows-7.html Гайд по установке MySQL
+
+http://mithrandir.ru/professional/soft-and-hardware/mysql-workbench-basics.html Коротко об основных функциях MySQL Workbench
+
+https://habr.com/ru/post/175985/
+
+### Дополнительные материалы - SQL
 
 
 Практическая работа
 ---------------------
 ### Первое задание
-Вам необходимо выполнить задания на сайте [sql-ex.ru](sql-ex.ru){:target="_blank"} из следующих разделов:
-+ [Задания по SQL](http://sql-ex.ru/learn_exercises.php){:target="_blank"} - необходимо выполнить **13 первых заданий**
-+ [Задания по DML](http://sql-ex.ru/dmlexercises.php){:target="_blank"} - необходимо выполнить **8 первых заданий**
+Вам необходимо выполнить задания на сайте **[sql-ex.ru](http://sql-ex.ru/){:target="_blank"}** из следующих разделов:
++ [Задания по SQL](http://sql-ex.ru/learn_exercises.php){:target="_blank"} - необходимо выполнить **13** первых заданий.
++ [Задания по DML](http://sql-ex.ru/dmlexercises.php){:target="_blank"} - необходимо выполнить **8** первых заданий.
 
 ### Второе задание
 1. Вам необходимо создать схему БД «Интернет-аукцион» в соответствии со следующей EER-диаграммой:
 ![alt text](schemas/db_scheme_2.png)
-1. Загрузить схему на сервер MySQL
+1. Загрузить схему на сервер MySQL (**[MySQL](https://dev.mysql.com/downloads/installer/)**)
 1. Заполнить таблицы произвольными данными
 1. Написать запросы в соответствии:
   + Список ставок данного пользователя
