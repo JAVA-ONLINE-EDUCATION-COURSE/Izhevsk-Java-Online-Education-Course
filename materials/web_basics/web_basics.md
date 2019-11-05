@@ -8,8 +8,8 @@
 1. [Прочитать основной tutorial и раздел “Forms”](http://www.w3schools.com/html){:target="_blank"}
 1. [Про CSS3 и дальше можно не читать](http://www.w3schools.com/css){:target="_blank"}
 1. [Про объекты и функции читать осторожно - сильно не погружаться](http://www.w3schools.com/js){:target="_blank"}
-1. [Удобно использовать для оформления таблички, сортировки и т.п.](http://www.w3schools.com/jquery) {:target="_blank"}
-1. [Отличный JS учебник](https://learn.javascript.ru/) {:target="_blank"}
+1. [Удобно использовать для оформления таблички, сортировки и т.п.](http://www.w3schools.com/jquery){:target="_blank"}
+1. [Отличный JS учебник](https://learn.javascript.ru/){:target="_blank"}
 1. [Презентация по HTML](./presentations/HTML%20Basics.pptx)
 1. [Презентация по JS](./presentations/JS%20Core.pptx)
 1. [Презентация по CSS](./presentations/CSS%20Basics.pptx)
