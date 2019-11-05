@@ -55,10 +55,9 @@ header span.epam-style-bracket {
   height: 40px;
   float: right;
   text-align: center;
-  font: 15px Arial, Helvetica, sans-serif;
   list-style: none;
   padding: 0;
-  margin: 0
+  margin: 0;
 }
 
 /** Основные пункты **/
@@ -68,7 +67,7 @@ header span.epam-style-bracket {
   float: left;
   height: 40px;
   padding: 0;
-  margin: 0
+  margin: 0;
 }
 #mainmenu > ul > li > a {
   display: block;
@@ -78,13 +77,13 @@ header span.epam-style-bracket {
   line-height: 40px;
 }
 #mainmenu > ul > li:first-child > a {
-  border: none
+  border: none;
 }
 #mainmenu > ul > li:hover > a, #mainmenu > ul > li.hover > a, #mainmenu > ul > li.active > a {
-  color: #fff
+  color: #fff;
 }
-#mainmenu > ul > li:hover, #mainmenu > ul > li.hover, #mainmenu > ul > li.active {
-  background: #666
+#mainmenu > ul > li:hover {
+  background: #404040;
 }
 
 /* Выпадающие подпункты */
@@ -97,7 +96,7 @@ header span.epam-style-bracket {
   visibility: hidden;
   padding: 0;
   margin: 0;
-  width: 200px
+  width: 200px;
 }
 #mainmenu > ul > li ul li {
   background-color: #666;
@@ -131,11 +130,11 @@ header span.epam-style-bracket {
   height: 6px;
   width: 6px;
 }
-#mainmenu ul li ul li:hover, #mainmenu ul li ul li.hover {
-  background-color: #444
+#mainmenu ul li ul li:hover {
+  background-color: #404040;
 }
 #mainmenu ul li:hover ul, #mainmenu ul li.hover ul {
-  display: block
+  display: block;
 }
 #mainmenu ul li:hover > ul {
   opacity: 1;
@@ -146,5 +145,5 @@ header span.epam-style-bracket {
   top: 0;
   left: 200px;
   margin: 0 0 0 20px;
-  width: 180px
+  width: 180px;
 }
