@@ -127,3 +127,14 @@ background: #666
 #mainmenu ul li:hover ul, #mainmenu ul li.hover ul {
   display: block
 }
+#mainmenu ul li:hover > ul {
+  opacity: 1;
+  visibility: visible;
+  margin: 0;
+}
+#mainmenu ul li ul li ul {
+  top: 0;
+  left: 200px;
+  margin: 0 0 0 20px;
+  width: 180px
+}
