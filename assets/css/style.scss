@@ -26,57 +26,104 @@ img {
   max-width: 840px;
 }
 
-#menu {
-    position: relative;
-    overflow: hidden;
-    height: 40px;
+/** Менюшка **/
+#mainmenu {
+position: relative;
+background: #444444;
+height: 40px;
+margin: 30px 0;
+padding: 0;
+float: left;
+width: 100%;
+z-index: 10
+}
+#mainmenu ul {
+clear: left;
+position: relative;
+right: 50%;
+height: 40px;
+float: right;
+text-align: center;
+font: 15px Arial, Helvetica, sans-serif;
+list-style: none;
+padding: 0;
+margin: 0
 }
 
-#navbar {
-  height: 30px;
-  background-color: #666;
-  padding-left: 25px;
-  min-width: 470px;
+/** Основные пункты **/
+#mainmenu > ul > li {
+position: relative;
+left: 50%;
+float: left;
+height: 40px;
+padding: 0;
+margin: 0
 }
-#navbar {
-  height: 30px;
-  background-color: #666;
-  padding-left: 25px;
-  min-width: 470px;
+#mainmenu > ul > li > a {
+border-left: 1px solid #666;
+display: block;
+color: #fff;
+text-decoration: none;
+padding: 0 20px;
+line-height: 40px;
 }
-#navbar ul {
-  position: relative;
-  left: 50%;
-  float: left;
+#mainmenu > ul > li:first-child > a {
+border: none
 }
-#navbar li {
-  float: left;
-  position: relative;
-  left: -50%;
-  height: 100%;
+#mainmenu > ul > li:hover > a, #mainmenu > ul > li.hover > a, #mainmenu > ul > li.active > a {
+color: #fff
 }
-#navbar li:hover ul {
-  display: block;
+#mainmenu > ul > li:hover, #mainmenu > ul > li.hover, #mainmenu > ul > li.active {
+background: #666
 }
-#navbar, #navbar ul {
-  margin: 0;
+
+/* Выпадающие подпункты */
+#mainmenu ul li ul {
+  position: absolute;
+  left: 0;
+  top: 40px;
+  display: none;
+  list-style: none;
+  visibility: hidden;
   padding: 0;
-  list-style-type: none;
+  margin: 0;
+  width: 200px
 }
-#navbar li a {
-  display: block;
-  padding: 6px;
-  width: 100px;
-  color: #fff;
-  text-decoration: none;
-  text-align: center;
-}
-#navbar ul li {
-  float: none;
-}
-#navbar li:hover {
-  background-color: #f90;
-}
-#navbar ul li:hover {
+#mainmenu > ul > li ul li {
   background-color: #666;
+  position: relative;
+  left: 0;
+  display: list-item;
+  float: none;
+  height: auto;
+  margin: 0;
+  text-align: left;
+}
+#mainmenu ul li ul li a {
+  border-bottom: 1px solid #999;
+  display: block;
+  color: #fff;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+#mainmenu ul li ul li.parent a {
+  position: relative;
+}
+#mainmenu ul li ul > li.parent > a::before {
+  border-top: 1px solid #fff;
+  order-right: 1px solid #fff;
+  ontent: "";
+  display: block;
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%) rotate(45deg);
+  height: 6px;
+  width: 6px;
+}
+#mainmenu ul li ul li:hover, #mainmenu ul li ul li.hover {
+  background-color: #444
+}
+#mainmenu ul li:hover ul, #mainmenu ul li.hover ul {
+  display: block
 }
