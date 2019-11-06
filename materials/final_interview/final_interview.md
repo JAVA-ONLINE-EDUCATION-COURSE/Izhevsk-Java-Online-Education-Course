@@ -6,6 +6,7 @@
 
 Вопросы для самопроверки
 ---------------------
+{% include git_question.md %}
 
 {% include data_handling_question.md %}
 
