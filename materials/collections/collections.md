@@ -29,6 +29,8 @@
 ---------------------
 [Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/java-collections-template){:target="_blank"}
 
+{% include about.md %}
+
 Вопросы для самоконтроля
 ---------------------
 ### Java Collections
