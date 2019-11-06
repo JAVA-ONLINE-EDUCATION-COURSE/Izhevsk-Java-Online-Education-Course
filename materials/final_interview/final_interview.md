@@ -7,7 +7,7 @@
 Вопросы для самопроверки
 ---------------------
 
-
+{% include data_handling_question.md %}
 {% include collections_question.md %}
 
 
