@@ -94,3 +94,60 @@ return a + b;
 + Имя классов пишем с заглавной буквы, имя методов – с прописной.
 + Выдаем код в окончательном виде (рабочий код, красиво оформленный, без лишних классов), а не в виде полуфабриката.
 + Знак обозначения массива пишем в типе, а не в имени переменной.
++ Как можно сильнее разбивайте вашу программу на классы и методы. Класс, который инкапсулирует слишком много логики или 
+метод, который занимает весь экран - первые кандидаты на рефакторинг.
++ Используйте fast return, где это возможно
+```java
+// Вместо
+if (a != null) {
+    if (a == 5) {
+        return true;
+    } else {
+        return false;
+    }
+} else {
+    return false;
+}
+
+// Используйте
+if (a == null) {
+    return false;
+}
+
+if (a == 5) {
+    return true;
+}
+return false;
+```
++ Избегайте возвращения null из методов
+```java
+// Вместо
+public List<User> getUserByName(String name) {
+    // не нашли юзеров с данным именем
+    return null;
+}
+
+// Используйте
+public List<User> getUserByName(String name) {
+    // не нашли юзеров с данным именем
+    return Collections.emptyList() ИЛИ new ArrayList<User>();
+}
+```
++ Где это возможно, используйте foreach вместо fori. В идеале, использовать Stream API, но только если вы пониаете, что 
+вы делаете.
+```java
+// Вместо
+List<Users> users;
+for (int i = 0; i < users.size(); i++) {
+    System.out.println(users.get(i));
+}
+
+// Используйте
+for (User user: users)
+    System.out.println(user);
+}
+
+// Идеально
+users.foreach(System.out::println)
+}
+```
