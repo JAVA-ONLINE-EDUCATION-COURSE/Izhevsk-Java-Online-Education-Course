@@ -13,6 +13,11 @@ body {
   color: white;
 }
 
+#project_title a:hover {
+  border-bottom: 2px dashed #37c2d7;
+  text-decoration: none;
+}
+
 #main_content {
   max-width: 900px;
 }
