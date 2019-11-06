@@ -29,15 +29,15 @@
 * [Основы проектирования и дизайна]({{site.materialsurl}}design_basics/design_basics)
 
 ### Закрепление навыков
-* [Написание программы: 20 спичек]({{site.materialsurl}}20_matches/20_matches)
-* [Написание программы: Шифр Цезаря]({{site.materialsurl}}caesar_cipher/caesar_cipher)
+* [Закрепление навыков: 20 спичек]({{site.materialsurl}}20_matches/20_matches)
+* [Закрепление навыков: Шифр Цезаря]({{site.materialsurl}}caesar_cipher/caesar_cipher)
 
 ### Основы Java
 * [Работа с коллекциями в Java]({{site.materialsurl}}collections/collections)
 * [Работа с исключениями в Java]({{site.materialsurl}}exceptions/exceptions)
 
 ### Закрепление навыков
-* [Написание программы: Калькулятор]({{site.materialsurl}}calculator/calculator)
+* [Закрепление навыков: Калькулятор]({{site.materialsurl}}calculator/calculator)
 
 Продвинутые модули
 ---------------------

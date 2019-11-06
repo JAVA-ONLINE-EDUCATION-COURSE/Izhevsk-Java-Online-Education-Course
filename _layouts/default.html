@@ -16,48 +16,48 @@
         <h1 id="project_title"><span class="epam-style-bracket">< </span>{{ site.title | default: site.github.repository_name }}<span class="epam-style-bracket"> ></span></h1>
         <div id="mainmenu">
             <ul>
-                <li><a href="/">Главная</a></li>
-                <li><a href="#">О курсе</a></li>
+                <li><a href="{{site.baseurl}}">Главная</a></li>
+                <li><a href="{{site.about}}">О курсе</a></li>
                 <li><a href="#">Правила и процессы</a>
                     <ul>
-                        <li><a href="#">Старт процесса обучения</a></li>
-                        <li><a href="#">Правила работы с платформой Grow.by</a></li>
-                        <li><a href="#">Правила работы с платформой Learn.by</a></li>
-                        <li><a href="#">Правила выполнения практических заданий</a></li>
-                        <li><a href="#">Типичные ошибки при выполнении практических работ</a></li>
-                        <li><a href="#">Критерии выставления оценки для практических работ ментором</a></li>
-                        <li><a href="#">Часто задаваемые вопросы</a></li>
+                        <li><a href="{{site.materialsurl}}general/education_start">Старт процесса обучения</a></li>
+                        <li><a href="{{site.materialsurl}}general/grow_intro">Правила работы с платформой Grow.by</a></li>
+                        <li><a href="{{site.materialsurl}}general/learn_intro">Правила работы с платформой Learn.by</a></li>
+                        <li><a href="{{site.materialsurl}}general/practical_tasks_completing_rules">Правила выполнения практических заданий</a></li>
+                        <li><a href="{{site.materialsurl}}general/typical_mistakes">Типичные ошибки при выполнении практических работ</a></li>
+                        <li><a href="{{site.materialsurl}}general/practical_tasks_evaluation_rules">Критерии выставления оценки для практических работ ментором</a></li>
+                        <li><a href="{{site.materialsurl}}general/faq">Часто задаваемые вопросы</a></li>
                     </ul>
                 </li>
                 <li><a href="#">Базовые модули</a>
-                    <ul class="last">
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
+                    <ul>
+                        <li><a href="{{site.materialsurl}}git/git">Системы контроля версий - Git</a></li>
+                        <li><a href="{{site.materialsurl}}java_intro/java_intro">Введение в платформу Java</a></li>
+                        <li><a href="{{site.materialsurl}}java_basics/java_basics">Базовые понятия Java</a></li>
+                        <li><a href="{{site.materialsurl}}oop/oop">Объектно ориентированное программирование (ООП)</a></li>
+                        <li><a href="{{site.materialsurl}}data_handling/data_handling">Работа с данными</a></li>
+                        <li><a href="{{site.materialsurl}}design_basics/design_basics">Основы проектирования и дизайна</a></li>
+                        <li><a href="{{site.materialsurl}}20_matches/20_matches">Закрепление навыков: 20 спичек</a></li>
+                        <li><a href="{{site.materialsurl}}caesar_cipher/caesar_cipher">Закрепление навыков: Шифр Цезаря</a></li>
+                        <li><a href="{{site.materialsurl}}collections/collections">Работа с коллекциями в Java</a></li>
+                        <li><a href="{{site.materialsurl}}exceptions/exceptions">Работа с исключениями в Java</a></li>
+                        <li><a href="{{site.materialsurl}}calculator/calculator">Закрепление навыков: Калькулятор</a></li>
                     </ul>
                 </li>
                 <li><a href="#">Продвинутые модули</a>
-                    <ul class="last">
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
-                        <li><a href="#">Типичные</a></li>
+                    <ul>
+                        <li><a href="{{site.materialsurl}}maven/maven">Введение в сборщик проектов Maven</a></li>
+                        <li><a href="{{site.materialsurl}}unit_testing/unit_testing">Введение в Unit тестирование</a></li>
+                        <li><a href="{{site.materialsurl}}spring_framework/spring_framework">Основы фреймворка Spring</a></li>
+                        <li><a href="{{site.materialsurl}}db_basics/db_basics">Основы баз данных и SQL</a></li>
+                        <li><a href="{{site.materialsurl}}jdbc/jdbc">Работа с базами данных в Java c использованием JDBC</a></li>
+                        <li><a href="{{site.materialsurl}}http/http">Протокол HTTP</a></li>
+                        <li><a href="{{site.materialsurl}}web_basics/web_basics">Основы WEB (HTML, CSS, JS)</a></li>
+                        <li><a href="{{site.materialsurl}}spring_mvc_framework/spring_mvc_framework">Фреймворк Spring MVC</a></li>
+                        <li><a href="{{site.materialsurl}}final_project/final_project">Разработка финального проекта</a></li>
                     </ul>
                 </li>
-                <li><a href="{{site.materialsurl}}">Оглавление</a></li>
+                <li><a href="{{site.contenturl}}">Оглавление</a></li>
             </ul>
         </div>
     </header>
