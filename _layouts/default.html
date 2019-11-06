@@ -13,11 +13,18 @@
 <!-- HEADER -->
 <div id="header_wrap" class="outer">
     <header class="inner">
-        <h1 id="project_title"><span class="epam-style-bracket">< </span>{{ site.title | default: site.github.repository_name }}<span class="epam-style-bracket"> ></span></h1>
+        <h1 id="project_title">
+            <a href="{{site.baseurl}}"><span class="epam-style-bracket">< </span>{{site.title}}<span class="epam-style-bracket"> ></span></a>
+        </h1>
         <div id="mainmenu">
             <ul>
-                <li><a href="{{site.baseurl}}">Главная</a></li>
-                <li><a href="{{site.about}}">О курсе</a></li>
+                <li><a href="#">Курс</a>
+                    <ul>
+                        <li><a href="{{site.baseurl}}">Главная</a></li>
+                        <li><a href="{{site.about}}">О курсе</a></li>
+                        <li><a href="{{site.contenturl}}">Содержание курса</a></li>
+                    </ul>
+                </li>
                 <li><a href="#">Правила и процессы</a>
                     <ul>
                         <li><a href="{{site.materialsurl}}general/education_start">Старт процесса обучения</a></li>
@@ -57,7 +64,7 @@
                         <li><a href="{{site.materialsurl}}final_project/final_project">Разработка финального проекта</a></li>
                     </ul>
                 </li>
-                <li><a href="{{site.contenturl}}">Содержание</a></li>
+                <li><a href="{{site.contenturl}}">Завершение</a></li>
             </ul>
         </div>
     </header>
