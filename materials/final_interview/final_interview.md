@@ -8,6 +8,8 @@
 ---------------------
 {% include git_question.md %}
 
+{% include java_intro_question.md %}
+
 {% include data_handling_question.md %}
 
 {% include collections_question.md %}
