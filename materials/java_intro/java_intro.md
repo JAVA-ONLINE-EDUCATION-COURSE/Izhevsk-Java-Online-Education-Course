@@ -20,7 +20,7 @@
 
 1. Установите **[JDK 1.8+](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html){:target="_blank"}** себе 
 на рабочую машину.
-2. Убедитесь, что JAVA_HOME прописан верно и вы можете из консоли вызывать команды JDK, например `java -version`. 
+2. Убедитесь, что переменная окружения `JAVA_HOME` прописана верно и путь до bin добавлен в переменную окружения `path` и вы можете из консоли вызывать команды JDK, например `java -version`. 
 3. Установите IDE (редактор кода). Рекомендуем использовать **[Intelliji Idea](https://www.jetbrains.com/idea/)**.
 4. Создайте свое первое приложение "Hello World" (можно использовать следующий **[туториал](http://tutorials.jenkov.com/java/your-first-java-app.html){:target="_blank"}**).
 5. Запустите, убедитесь, что программа выполняется корректно.
