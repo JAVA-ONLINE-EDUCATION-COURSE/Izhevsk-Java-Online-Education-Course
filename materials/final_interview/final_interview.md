@@ -6,16 +6,10 @@
 
 Вопросы для самопроверки
 ---------------------
-{% include git_question.md %}
-
-{% include java_intro_question.md %}
-
-{% include data_handling_question.md %}
-
-{% include collections_question.md %}
-
-
-
+{% include questions/java_intro_question.md %}
+{% include questions/git_question.md %}
+{% include questions/data_handling_question.md %}
+{% include questions/collections_question.md %}
 
 | Темы        | Топики в теме   | Приоритет для повторения |
 ---|---|---

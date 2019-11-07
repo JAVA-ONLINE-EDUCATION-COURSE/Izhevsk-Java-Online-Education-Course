@@ -27,4 +27,4 @@
 
 Вопросы для самоконтроля
 ---------------------
-{% include git_question.md %}
+{% include questions/java_intro_question.md %}
