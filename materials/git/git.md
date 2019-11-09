@@ -47,4 +47,4 @@
 
 Вопросы для самоконтроля
 ---------------------
-{% include questions/git_question.md %}
+{% include questions/git_questions.md %}

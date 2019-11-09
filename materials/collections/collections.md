@@ -31,4 +31,4 @@
 
 Вопросы для самоконтроля
 ---------------------
-{% include questions/collections_question.md %}
+{% include questions/collections_questions.md %}

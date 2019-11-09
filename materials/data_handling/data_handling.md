@@ -42,4 +42,4 @@
 
 Вопросы для самоконтроля
 ---------------------
-{% include questions/data_handling_question.md %}
+{% include questions/data_handling_questions.md %}

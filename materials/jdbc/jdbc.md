@@ -8,6 +8,7 @@
 1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+JDBC_RD_BY+ext1/about){:target="_blank"}
 1. [Презентация JDBC](./presentations/JDBC.pptx){:target="_blank"}
 1. [Статья про JDBC](https://javarush.ru/groups/posts/2172-jdbc-ili-s-chego-vsje-nachinaetsja){:target="_blank"}
+https://www.youtube.com/watch?v=aje9gtFEyC4
 
 Практическая работа
 ---------------------

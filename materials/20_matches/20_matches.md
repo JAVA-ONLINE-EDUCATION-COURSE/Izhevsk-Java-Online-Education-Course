@@ -37,4 +37,4 @@
   + Добавьте класс для логики компьютера.
 
 ### Пример работы программы
-![20_matches]({{site.materialsurl}}20_matches/img/out-example.png)
+![20_matches](./img/out-example.png)
