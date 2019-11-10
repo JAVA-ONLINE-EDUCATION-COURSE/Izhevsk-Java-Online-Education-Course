@@ -96,12 +96,12 @@ return weight + height;
 + Знак обозначения массива пишем в типе, а не в имени переменной.
 + Как можно сильнее разбивайте вашу программу на классы и методы. Класс, который инкапсулирует слишком много логики или 
 метод, который занимает весь экран - первые кандидаты на рефакторинг.
-+ Используйте fast return, где это возможно
++ Используйте fast return, где это возможно.
 
 ```java
 // Вместо
-if (a != null) {
-    if (a == 5) {
+if (result != null) {
+    if (result == 5) {
         return true;
     } else {
         return false;
@@ -111,29 +111,33 @@ if (a != null) {
 }
 
 // Используйте
-if (a == null) {
+if (result == null) {
     return false;
 }
 
-if (a == 5) {
+if (result == 5) {
     return true;
 }
 return false;
+
+// Идеально
+return result == 5;
 ```
 
-+ Избегайте возвращения null из методов
++ Избегайте возвращения null из методов.
 
 ```java
 // Вместо
 public List<User> getUserByName(String name) {
-    // не нашли юзеров с данным именем
+    // не нашли пользователей с данным именем
     return null;
 }
 
 // Используйте
 public List<User> getUserByName(String name) {
-    // не нашли юзеров с данным именем
-    return Collections.emptyList() ИЛИ new ArrayList<User>();
+    // не нашли пользователей с данным именем
+    return Collections.emptyList() 
+    // Либо return new ArrayList<User>();
 }
 ```
 
@@ -142,13 +146,13 @@ public List<User> getUserByName(String name) {
 
 ```java
 // Вместо
-List<Users> users;
+List<Users> users = getUserByName("Petr");
 for (int i = 0; i < users.size(); i++) {
     System.out.println(users.get(i));
 }
 
 // Используйте
-for (User user: users)
+for (User user : users)
     System.out.println(user);
 }
 
