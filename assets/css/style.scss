@@ -4,6 +4,11 @@
 @import "{{ site.theme }}";
 body {
   font-size: 18px;
+  color: #000000;
+}
+
+blockquote {
+  border-left: 3px solid #38c2d6;
 }
 
 #project_title {
