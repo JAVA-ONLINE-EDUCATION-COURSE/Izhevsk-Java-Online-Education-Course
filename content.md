@@ -45,7 +45,7 @@
 * [Введение в сборщик проектов Maven]({{site.materialsurl}}maven/maven)
 
 ### Тестирование 
-* [Введение в Unit тестирование]({{site.materialsurl}}unit_testing/unit_testing)
+* [Введение в Unit-тестирование]({{site.materialsurl}}unit_testing/unit_testing)
 
 ### Фреймворк Spring Core
 * [Основы фреймворка Spring]({{site.materialsurl}}spring_framework/spring_framework)
