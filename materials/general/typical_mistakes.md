@@ -83,11 +83,11 @@ if (...) {
 
 ```java
 // Вместо
-int result = a + b;
+int result = weight + height;
 return result;
 
 // Используйте
-return a + b;
+return weight + height;
 ```
 
 + Делаем отступы между методами.
@@ -97,6 +97,7 @@ return a + b;
 + Как можно сильнее разбивайте вашу программу на классы и методы. Класс, который инкапсулирует слишком много логики или 
 метод, который занимает весь экран - первые кандидаты на рефакторинг.
 + Используйте fast return, где это возможно
+
 ```java
 // Вместо
 if (a != null) {
@@ -119,7 +120,9 @@ if (a == 5) {
 }
 return false;
 ```
+
 + Избегайте возвращения null из методов
+
 ```java
 // Вместо
 public List<User> getUserByName(String name) {
@@ -133,8 +136,10 @@ public List<User> getUserByName(String name) {
     return Collections.emptyList() ИЛИ new ArrayList<User>();
 }
 ```
-+ Где это возможно, используйте foreach вместо fori. В идеале, использовать Stream API, но только если вы пониаете, что 
+
++ Где это возможно, используйте foreach вместо for. В идеале, использовать Stream API, но только если вы понимаете, что 
 вы делаете.
+
 ```java
 // Вместо
 List<Users> users;
@@ -148,6 +153,5 @@ for (User user: users)
 }
 
 // Идеально
-users.foreach(System.out::println)
-}
+users.foreach(System.out::println);
 ```

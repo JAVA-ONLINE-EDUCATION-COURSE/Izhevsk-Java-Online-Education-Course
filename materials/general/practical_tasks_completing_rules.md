@@ -75,7 +75,7 @@
 
 ![practicaltasks]({{site.materialsurl}}general/img/create-pull-request.png)
 
-Далее вы выбираете свой репозиторий в качестве целевого (по умолчанию github предлоагает сделать pull-request в репозиторий с которогом вы клонировали).
+Далее вы выбираете свой репозиторий в качестве целевого (по умолчанию github предлагает сделать pull-request в репозиторий с которого вы делали форк).
 
 ![practicaltasks]({{site.materialsurl}}general/img/create-pull-request-choose-repo.png)
 
