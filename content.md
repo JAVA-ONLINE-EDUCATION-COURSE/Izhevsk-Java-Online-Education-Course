@@ -68,5 +68,5 @@
 
 Завершение обучения
 ---------------------
-* [Прохождение итогового интервью]({{site.materialsurl}}final_test/final_interview)
+* [Подготовка к интервью]({{site.materialsurl}}final_interview/final_interview)
 * [Завершение обучения]({{site.materialsurl}}next_steps/next_steps)
