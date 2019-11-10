@@ -1,4 +1,4 @@
-### Java fundamentals
+### Java Fundamentals
 1. Чем отличается JRE, JVM и JDK?
 1. Что такое Heap и Stack память в Java?
 1. Зачем нам нужна IDE?
