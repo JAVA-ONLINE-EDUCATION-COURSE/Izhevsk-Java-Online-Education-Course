@@ -49,9 +49,9 @@
             <ul>
                 <li><a href="{{site.baseurl}}">Курс</a>
                     <ul>
-                        <li><a href="{{site.baseurl}}">Главная</a></li>
-                        <li><a href="{{site.about}}">Описание курса</a></li>
-                        <li><a href="{{site.news}}">Новости курса</a></li>
+                        <li><a href="{{site.baseurl'?v='|append:site.github.build_revision|relative_url}}">Главная</a></li>
+                        <li><a href="{{site.about}}?v={{site.github.build_revisio}}">Описание курса</a></li>
+                        <li><a href="{{site.news}}{{relative_url}}">Новости курса</a></li>
                         <li><a href="{{site.contenturl}}">Содержание курса</a></li>
                     </ul>
                 </li>
