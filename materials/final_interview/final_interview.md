@@ -1,12 +1,12 @@
 {% include header.md %}
 
-Прохождение итогового интервью
+Подготовка к интервью
 ====================
 
 Вопросы для самопроверки
 ---------------------
-{% include questions/java_intro_questions.md %}  
 {% include questions/git_questions.md %}  
+{% include questions/java_intro_questions.md %}  
 {% include questions/java_basics_questions.md %}  
 {% include questions/data_handling_questions.md %}  
 {% include questions/collections_questions.md %}  
