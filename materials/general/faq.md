@@ -1,5 +1,9 @@
 {% include header.md %}
 
+>
+>**[Вернуться к описанию старта обучения]({{site.materialsurl}}general/education_start)**
+>   
+
 Часто задаваемые вопросы
 ====================
 
