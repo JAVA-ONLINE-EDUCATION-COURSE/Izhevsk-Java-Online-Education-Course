@@ -42,3 +42,17 @@
 ![hello-world]({{site.materialsurl}}java_intro/img/step-19.png)
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-20.png)
+
+![hello-world]({{site.materialsurl}}java_intro/img/step-21.png)
+
+![hello-world]({{site.materialsurl}}java_intro/img/step-22.png)
+
+![hello-world]({{site.materialsurl}}java_intro/img/step-23.png)
+
+![hello-world]({{site.materialsurl}}java_intro/img/step-24.png)
+
+![hello-world]({{site.materialsurl}}java_intro/img/step-25.png)
+
+![hello-world]({{site.materialsurl}}java_intro/img/step-26.png)
+
+![hello-world]({{site.materialsurl}}java_intro/img/step-27.png)
