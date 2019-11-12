@@ -2,14 +2,28 @@
 
 Создание первого приложения
 ====================
+Запустите IDEA.  
+Выберите `Create New Project`.
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-1.png)
 
+В выпадающем списке выберите Project SDK.  
+Если нет доступных SDK для выбора, нажмите `New` и укажите пусть до установленной JDK.  
+Далее нажимаем `Next`.
+
 ![hello-world]({{site.materialsurl}}java_intro/img/step-2.png)
+
+Ставим галочку для `Create project from template` и выбираем `Java Hello World`.
+Далее нажимаем `Next`.
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-3.png)
 
+В результате мы получаем проект, который при запуске должен выводить на экран "Hello World!".  
+Для запуска приложения нажмите на зеленый треугольник у метода main и выберите `Run Main.main()`.
+
 ![hello-world]({{site.materialsurl}}java_intro/img/step-4.png)
+
+В результате в открывшееся окно консоли выведется сообщение "Hello World!".
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-5.png)
 
