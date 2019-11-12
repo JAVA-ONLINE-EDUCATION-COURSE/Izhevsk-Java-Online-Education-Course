@@ -11,11 +11,11 @@
 1. [Спринг по-русски (валидация)](http://spring-projects.ru/guides/validating-form-input/){:target="_blank"}
 1. [Спринг по-русски (безопасность)](http://spring-projects.ru/guides/securing-web/){:target="_blank"}
 1. [Спринг по-русски (jdbc)](http://spring-projects.ru/guides/relational-data-access/){:target="_blank"}
-1. [Шаблон финального проекта](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/final-project-template){:target="_blank"}
+1. [Шаблон финального проекта](https://github.com/java-online-course/final-project-template){:target="_blank"}
 
 Практическая работа
 ---------------------
-[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/spring-mvc-template){:target="_blank"}
+[Репозиторий с шаблоном практической работы](https://github.com/java-online-course/spring-mvc-template){:target="_blank"}
 
 Вопросы для самоконтроля
 ---------------------

@@ -38,7 +38,7 @@
 
 Практическая работа
 ---------------------
-[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/java-data-handling-template){:target="_blank"}
+[Репозиторий с шаблоном практической работы](https://github.com/java-online-course/java-data-handling-template){:target="_blank"}
 
 Вопросы для самоконтроля
 ---------------------

@@ -11,7 +11,7 @@
 
 Практическая работа
 ---------------------
-[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/java-oop-template){:target="_blank"}
+[Репозиторий с шаблоном практической работы](https://github.com/java-online-course/java-oop-template){:target="_blank"}
 
 Вопросы для самоконтроля
 ---------------------

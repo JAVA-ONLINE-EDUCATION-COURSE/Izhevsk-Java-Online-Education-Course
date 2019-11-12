@@ -27,7 +27,7 @@
 
 Практическая работа
 ---------------------
-[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/java-collections-template){:target="_blank"}
+[Репозиторий с шаблоном практической работы](https://github.com/java-online-course/java-collections-template){:target="_blank"}
 
 Вопросы для самоконтроля
 ---------------------

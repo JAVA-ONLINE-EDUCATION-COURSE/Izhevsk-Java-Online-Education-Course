@@ -13,7 +13,7 @@ https://habr.com/ru/company/infopulse/blog/150563/
 
 Практическая работа
 ---------------------
-[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/spring-core-template){:target="_blank"}
+[Репозиторий с шаблоном практической работы](https://github.com/java-online-course/spring-core-template){:target="_blank"}
 
 Вопросы для самоконтроля
 ---------------------

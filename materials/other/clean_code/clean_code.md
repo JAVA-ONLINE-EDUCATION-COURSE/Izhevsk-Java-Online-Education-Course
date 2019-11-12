@@ -11,7 +11,7 @@
 
 Практическая работа
 ---------------------
-[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/clean-code-practice)
+[Репозиторий с шаблоном практической работы](https://github.com/java-online-course/clean-code-practice)
 
 Вопросы для самоконтроля
 ---------------------

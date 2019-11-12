@@ -16,7 +16,7 @@
 Практическая работа
 ---------------------
 ### Задание №1
-[Репозиторий с шаблоном практической работы](https://github.com/JAVA-ONLINE-EDUCATION-COURSE/java-exceptions-template){:target="_blank"}
+[Репозиторий с шаблоном практической работы](https://github.com/java-online-course/java-exceptions-template){:target="_blank"}
 
 Вопросы для самоконтроля
 ---------------------
