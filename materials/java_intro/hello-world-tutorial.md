@@ -13,27 +13,43 @@
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-2.png)
 
-Ставим галочку для `Create project from template` и выбираем `Java Hello World`.
+Ставим галочку для `Create project from template` и выбираем `Java Hello World`.  
 Далее нажимаем `Next`.
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-3.png)
 
-В результате мы получаем проект, который при запуске должен выводить на экран "Hello World!".  
-Для запуска приложения нажмите на зеленый треугольник у метода main и выберите `Run Main.main()`.
+Теперь необходимо указать название проекта - введите "hello-world".  
+А также укажите директорию для сохранения проекта.   
+Далее нажимаем `Finish`.
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-4.png)
 
-В результате в открывшееся окно консоли выведется сообщение "Hello World!".
+В результате мы получаем проект, который при запуске должен выводить на экран "Hello World!".  
+Для запуска приложения нажмите на зеленый треугольник у метода main и выберите `Run Main.main()`.
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-5.png)
 
+В результате в открывшееся окно консоли выведется сообщение "Hello World!".
+
 ![hello-world]({{site.materialsurl}}java_intro/img/step-6.png)
+
+Теперь введите строчки кода как на картинке.  
+Нажмите на пространство правее номера строки и установите Breakpoint (появится красный кружок как на картинке).
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-7.png)
 
+Запустите приложение в режиме Debug.
+Для запуска нажмите на зеленый треугольник у метода main и выберите `Debug Main.main()`.
+
 ![hello-world]({{site.materialsurl}}java_intro/img/step-8.png)
 
+Программа начнет выполнять в режиме дебага. Откроется окно дебаггера.
+Программа при этом остановится на той строчке, в которой был установлен Breakpoint.
+
 ![hello-world]({{site.materialsurl}}java_intro/img/step-9.png)
+
+Нажимая на кнопку `F8` вы можете идти по ходу выполнения программы строчка за строчкой. Попробуйте.  
+При нажатии на кнопку `F9` программа продолжит свое выполнение без остановок, если только не встретится новый Breakpoint. Поэкспериментируйте.
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-10.png)
 
