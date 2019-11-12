@@ -98,8 +98,9 @@
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-19.png)
 
-Данный проект сохранен в обычной дериктории, которая не является локальным репозиторием.  
-Нам необходимо инициализировать данную директорию как локальный репозиторий, для этого выберите `VCS` - `Enable Version Control Integration..`.
+Данный проект сохранен в обычной дериктории, которая не является локальным репозиторием. Поэтому сейчас мы не можем делать коммиты изменения и пушить их в удаленный репозиторий.  
+Для начала, нам необходимо инициализировать данную директорию как локальный репозиторий.  
+Для этого выберите `VCS` - `Enable Version Control Integration..`.
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-20.png)
 
@@ -108,17 +109,37 @@
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-21.png)
 
-Откройте вкладку `Version Control` (внизу экрана).  
-Нажмите на зеленую галочку для создания коммита или нажмите `Ctrl + K`.  
+Откройте вкладку `Version Control` (внизу экрана) и раздел `Local Changes`.  
+Нажмите на зеленую галочку для создания коммита или нажмите `Ctrl + K` (пользуйтесь hot key, привыкайте).  
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-22.png)
 
+Откроется список всех файлов.  
+Поставьте галочку напротив каждого файла, введите текст сообщения для коммита и нажмите `Commit`.
+
 ![hello-world]({{site.materialsurl}}java_intro/img/step-23.png)
+
+Откройте вкладку `Version Control` (внизу экрана) и раздел `Log`.  
+там вы увидите сделанный вами коммит.
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-24.png)
 
+Теперь нам необходимо запушить его в удаленный репозиторий.  
+Для этого создайте на Github новый репозиторий в своей аккаунте. Назовите репозиторий hello-world.  
+Скопируйте ссылку репозитория (например https://github.com/ivanov/hello-world.git).
+
+Далее выберите `VCS` - `Git` - `Push..` либо `Ctrl + Shift +K`.
+
 ![hello-world]({{site.materialsurl}}java_intro/img/step-25.png)
+
+Нажмите `Define remote`.
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-26.png)
 
+И укажите ссылку на ваш репозиторий.  
+Если вы еще не работали с Github в IDEA, она попросит вас ввести email и пароль для доступа к учетной записи. Укажите их.  
+В результате ваш проект будет запушен в удаленный репозиторий.
+
 ![hello-world]({{site.materialsurl}}java_intro/img/step-27.png)
+
+Поздравляем с написанием первой программы на Java!
