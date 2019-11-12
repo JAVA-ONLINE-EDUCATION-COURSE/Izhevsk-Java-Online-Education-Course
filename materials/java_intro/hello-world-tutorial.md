@@ -1,7 +1,7 @@
 >**[Вернуться к теме "Введение в платформу Java"]({{site.materialsurl}}java_intro/java_intro)**
 
 Создание первого приложения
-====================
+===
 Запустите IDEA.  
 Выберите `Create New Project`.
 

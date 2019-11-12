@@ -1,13 +1,13 @@
 {% include header.md %}
 
 Системы контроля версий - Git
-====================
+=====
 
 Материалы для самоподготовки
 ---------------------
 ### Основные материалы - Git
 1. [Видео: Learn - Version control with GIT](https://learn.by/courses/course-v1:EPAM+VCG+ext1/about){:target="_blank"}
-1. [Отличная книга по GIT](https://git-scm.com/book/ru/v2){:target="_blank"} (1, 2, 3, 5 главы обязательны для изучения)
+1. [Книга: Pro Git](https://git-scm.com/book/ru/v2){:target="_blank"} (1, 2, 3, 5 главы обязательны для изучения)
 1. [Habrahabr: Удачная модель ветвления для Git](https://habr.com/ru/post/106912/){:target="_blank"}
 
 ### Дополнительные материалы - Git
