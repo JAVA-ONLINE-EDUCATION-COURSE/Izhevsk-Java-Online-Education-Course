@@ -9,6 +9,8 @@ body {
 
 blockquote {
   border-left: 4px solid #38c2d6;
+  font-style: italic;
+  color: #555;
 }
 
 #project_title {
@@ -21,6 +23,7 @@ blockquote {
 
 #project_title a:hover {
   text-decoration: none;
+  color: #47e7ff;
 }
 
 #main_content {
