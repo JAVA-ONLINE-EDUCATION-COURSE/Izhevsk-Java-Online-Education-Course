@@ -11,4 +11,4 @@
    });
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/56162068" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika Counter -->
