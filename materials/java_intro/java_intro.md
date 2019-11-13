@@ -1,17 +1,17 @@
 {% include header.md %}
 
 Введение в платформу Java
-===
+=====
 
 Материалы для самоподготовки
 ---------------------
 ### Основные материалы - Java Fundamentals
 1. [Видео: Learn - Java Fundamentals](https://learn.by/courses/course-v1:EPAM+JF+ext1/about){:target="_blank"} (только раздел GETTING STARTED)
-1. [Habrahabr: Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM](https://habr.com/ru/post/471772/){:target="_blank"}
+1. [Habr: Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM](https://habr.com/ru/post/471772/){:target="_blank"}
 1. [Видео: Введение в Java](https://www.youtube.com/watch?v=iK97P8DQeOU){:target="_blank"}
 
 ### Дополнительные материалы - Java Fundamentals
-1. [Как поставить Java локально](https://www.w3schools.com/java/java_getstarted.asp){:target="_blank"}
+1. [W3S: Как поставить Java локально](https://www.w3schools.com/java/java_getstarted.asp){:target="_blank"}
 1. [Горячие клавиши в Intelliji Idea](./Intelliji_idea_shortcuts.pdf){:target="_blank"}
 1. [Java Google Codestyle](https://google.github.io/styleguide/javaguide.html){:target="_blank"}
 

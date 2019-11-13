@@ -6,7 +6,7 @@
 
 Основные материалы
 ---------------------
-1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+JEE+ext1/courseware){:target="_blank"}
+1. [Видео: Learn - Java - Error & Exceptions](https://learn.by/courses/course-v1:EPAM+JEE+ext1/about){:target="_blank"}
 1. [Видео: исключения](https://www.youtube.com/watch?v=RcwyUIyF7kI){:target="_blank"}
 
 Дополнительные материалы

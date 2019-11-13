@@ -10,8 +10,8 @@
 
 Дополнительные материалы
 ---------------------
-1. [Habrahabr: Юнит-тестирование для чайников](https://habr.com/ru/post/169381/){:target="_blank"}
-1. [Habrahabr: Пирамида тестов на практике](https://habr.com/en/post/358950/){:target="_blank"}
+1. [Habr: Юнит-тестирование для чайников](https://habr.com/ru/post/169381/){:target="_blank"}
+1. [Habr: Пирамида тестов на практике](https://habr.com/en/post/358950/){:target="_blank"}
 
 Практическая работа
 ---------------------
