@@ -2,6 +2,27 @@
 ---
 
 @import "{{ site.theme }}";
+
+@media screen and (max-width: 850px) {
+
+#mainmenu {
+    height: auto;
+    background: linear-gradient(to top, #373737, #2a2a2a);
+}
+
+#mainmenu ul {
+    right: auto;
+    height: auto;
+    float: none;
+}
+
+#mainmenu > ul > li {
+    left: auto;
+    float: none;
+}
+
+}
+
 body {
   font-size: 18px;
   color: #000000;
