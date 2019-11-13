@@ -24,63 +24,91 @@
         <h1 id="project_title">
             <a href="{{site.baseurl}}"><span class="epam-style-bracket">< </span>{{site.title}}<span class="epam-style-bracket"> ></span></a>
         </h1>
-        <div id="mainmenu">
-            <ul>
-                <li><a href="{{site.baseurl}}">Курс</a>
-                    <ul>
-                        <li><a href="{{site.baseurl}}">Главная</a></li>
-                        <li><a href="{{site.about}}">Описание курса</a></li>
-                        <li><a href="{{site.news}}">Новости курса</a></li>
-                        <li><a href="{{site.contenturl}}">Содержание курса</a></li>
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav nav-pills">
+                        <li role="presentation" class="dropdown">
+                            <a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="{{site.baseurl}}">Курс<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{site.baseurl}}">Главная</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="{{site.about}}">Описание курса</a></li>
+                                <li><a href="{{site.news}}">Новости курса</a></li>
+                                <li><a href="{{site.contenturl}}">Содержание курса</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="{{site.contenturl}}#описание-правил-и-процессов">Правила и процессы<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{site.materialsurl}}general/education_start">Старт процесса обучения</a></li>
+                                <li><a href="{{site.materialsurl}}general/grow_intro">Правила работы с платформой Grow.by</a></li>
+                                <li><a href="{{site.materialsurl}}general/learn_intro">Правила работы с платформой Learn.by</a></li>
+                                <li><a href="{{site.materialsurl}}general/practical_tasks_completing_rules">Правила выполнения практических заданий</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="{{site.materialsurl}}general/typical_mistakes">Типичные ошибки при выполнении практических работ</a></li>
+                                <li><a href="{{site.materialsurl}}general/practical_tasks_evaluation_rules">Критерии выставления оценки для практических работ ментором</a></li>
+                                <li><a href="{{site.materialsurl}}general/faq">Часто задаваемые вопросы (FAQ)</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="{{site.contenturl}}#базовые-модули">Базовые модули<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{site.materialsurl}}git/git">Системы контроля версий - Git</a></li>
+                                <li><a href="{{site.materialsurl}}java_intro/java_intro">Введение в платформу Java</a></li>
+                                <li><a href="{{site.materialsurl}}java_basics/java_basics">Базовые понятия Java</a></li>
+                                <li><a href="{{site.materialsurl}}oop/oop">Объектно ориентированное программирование (ООП)</a></li>
+                                <li><a href="{{site.materialsurl}}data_handling/data_handling">Работа с данными</a></li>
+                                <li><a href="{{site.materialsurl}}design_basics/design_basics">Основы проектирования и дизайна</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="{{site.materialsurl}}20_matches/20_matches">Закрепление навыков: 20 спичек</a></li>
+                                <li><a href="{{site.materialsurl}}caesar_cipher/caesar_cipher">Закрепление навыков: Шифр Цезаря</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="{{site.materialsurl}}collections/collections">Работа с коллекциями в Java</a></li>
+                                <li><a href="{{site.materialsurl}}exceptions/exceptions">Работа с исключениями в Java</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="{{site.materialsurl}}calculator/calculator">Закрепление навыков: Калькулятор</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="{{site.contenturl}}#продвинутые-модули">Продвинутые модули<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{site.materialsurl}}maven/maven">Введение в сборщик проектов Maven</a></li>
+                                <li><a href="{{site.materialsurl}}unit_testing/unit_testing">Введение в Unit-тестирование</a></li>
+                                <li><a href="{{site.materialsurl}}spring_framework/spring_framework">Основы фреймворка Spring</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="{{site.materialsurl}}db_basics/db_basics">Основы баз данных и SQL</a></li>
+                                <li><a href="{{site.materialsurl}}jdbc/jdbc">Работа с базами данных в Java c использованием JDBC</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="{{site.materialsurl}}http/http">Протокол HTTP</a></li>
+                                <li><a href="{{site.materialsurl}}web_basics/web_basics">Основы WEB (HTML, CSS, JS)</a></li>
+                                <li><a href="{{site.materialsurl}}spring_mvc_framework/spring_mvc_framework">Фреймворк Spring MVC</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="{{site.materialsurl}}final_project/final_project">Разработка финального проекта</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="{{site.contenturl}}#завершение-обучения">Завершение обучения<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{site.materialsurl}}final_interview/final_interview">Подготовка к интервью</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="{{site.materialsurl}}next_steps/next_steps">Завершение обучения</a></li>
+                            </ul>
+                        </li>
                     </ul>
-                </li>
-                <li><a href="{{site.contenturl}}#описание-правил-и-процессов">Правила и процессы</a>
-                    <ul>
-                        <li><a href="{{site.materialsurl}}general/education_start">Старт процесса обучения</a></li>
-                        <li><a href="{{site.materialsurl}}general/grow_intro">Правила работы с платформой Grow.by</a></li>
-                        <li><a href="{{site.materialsurl}}general/learn_intro">Правила работы с платформой Learn.by</a></li>
-                        <li><a href="{{site.materialsurl}}general/practical_tasks_completing_rules">Правила выполнения практических заданий</a></li>
-                        <li><a href="{{site.materialsurl}}general/typical_mistakes">Типичные ошибки при выполнении практических работ</a></li>
-                        <li><a href="{{site.materialsurl}}general/practical_tasks_evaluation_rules">Критерии выставления оценки для практических работ ментором</a></li>
-                        <li><a href="{{site.materialsurl}}general/faq">Часто задаваемые вопросы (FAQ)</a></li>
-                    </ul>
-                </li>
-                <li><a href="{{site.contenturl}}#базовые-модули">Базовые модули</a>
-                    <ul>
-                        <li><a href="{{site.materialsurl}}git/git">Системы контроля версий - Git</a></li>
-                        <li><a href="{{site.materialsurl}}java_intro/java_intro">Введение в платформу Java</a></li>
-                        <li><a href="{{site.materialsurl}}java_basics/java_basics">Базовые понятия Java</a></li>
-                        <li><a href="{{site.materialsurl}}oop/oop">Объектно ориентированное программирование (ООП)</a></li>
-                        <li><a href="{{site.materialsurl}}data_handling/data_handling">Работа с данными</a></li>
-                        <li><a href="{{site.materialsurl}}design_basics/design_basics">Основы проектирования и дизайна</a></li>
-                        <li><a href="{{site.materialsurl}}20_matches/20_matches">Закрепление навыков: 20 спичек</a></li>
-                        <li><a href="{{site.materialsurl}}caesar_cipher/caesar_cipher">Закрепление навыков: Шифр Цезаря</a></li>
-                        <li><a href="{{site.materialsurl}}collections/collections">Работа с коллекциями в Java</a></li>
-                        <li><a href="{{site.materialsurl}}exceptions/exceptions">Работа с исключениями в Java</a></li>
-                        <li><a href="{{site.materialsurl}}calculator/calculator">Закрепление навыков: Калькулятор</a></li>
-                    </ul>
-                </li>
-                <li><a href="{{site.contenturl}}#продвинутые-модули">Продвинутые модули</a>
-                    <ul>
-                        <li><a href="{{site.materialsurl}}maven/maven">Введение в сборщик проектов Maven</a></li>
-                        <li><a href="{{site.materialsurl}}unit_testing/unit_testing">Введение в Unit-тестирование</a></li>
-                        <li><a href="{{site.materialsurl}}spring_framework/spring_framework">Основы фреймворка Spring</a></li>
-                        <li><a href="{{site.materialsurl}}db_basics/db_basics">Основы баз данных и SQL</a></li>
-                        <li><a href="{{site.materialsurl}}jdbc/jdbc">Работа с базами данных в Java c использованием JDBC</a></li>
-                        <li><a href="{{site.materialsurl}}http/http">Протокол HTTP</a></li>
-                        <li><a href="{{site.materialsurl}}web_basics/web_basics">Основы WEB (HTML, CSS, JS)</a></li>
-                        <li><a href="{{site.materialsurl}}spring_mvc_framework/spring_mvc_framework">Фреймворк Spring MVC</a></li>
-                        <li><a href="{{site.materialsurl}}final_project/final_project">Разработка финального проекта</a></li>
-                    </ul>
-                </li>
-                <li><a href="{{site.contenturl}}#завершение-обучения">Завершение обучения</a>
-                    <ul>
-                        <li><a href="{{site.materialsurl}}final_interview/final_interview">Подготовка к интервью</a></li>
-                        <li><a href="{{site.materialsurl}}next_steps/next_steps">Завершение обучения</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
+                </div>
+            </div>
+        </nav>
+
     </header>
 </div>
 
@@ -110,6 +138,9 @@
         ga('send', 'pageview');
 
 </script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 {% endif %}
 </body>
 </html>
