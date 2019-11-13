@@ -4,12 +4,12 @@
 ===
 {% include module-not-completed-advanced.md %}
 
-### Основные материалы
+Материалы для самоподготовки
 ---------------------
+### Основные материалы
 1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+MBT+ext1/about){:target="_blank"}
 
 ### Дополнительные материалы
----------------------
 http://tutorials.jenkov.com/maven/maven-tutorial.html
 1. [Видео: Ant и Maven](https://www.youtube.com/watch?v=ouUuT2uEuiU){:target="_blank"}
 1. [Перевод документации мавена](https://www.apache-maven.ru/){:target="_blank"}
@@ -17,8 +17,6 @@ http://tutorials.jenkov.com/maven/maven-tutorial.html
 
 Практическая работа
 ---------------------
-
-### Задание №1
 1. Скачайте и поставьте Maven себе на рабочую машину. Добавьте директорию в переменную PATH. Выполните в конслои команду
 `mvn -version`, чтобы удостовериться, что вы все сделали правильно.
 1. Создайте новый мавен проект. В качестве groupId используйте связку `ru.фамилия.имя`, artifactId задайт как `maven-practice`.
