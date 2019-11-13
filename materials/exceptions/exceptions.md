@@ -2,6 +2,7 @@
 
 Работа с исключениями в Java
 ===
+{% include module-not-completed-basic.md %}
 
 Основные материалы
 ---------------------

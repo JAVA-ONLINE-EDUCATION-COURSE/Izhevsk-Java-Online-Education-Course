@@ -2,6 +2,7 @@
 
 Основы WEB (HTML, CSS, JS)
 ===
+{% include module-not-completed-advanced.md %}
 
 Материалы для самоподготовки
 ---------------------

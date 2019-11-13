@@ -2,6 +2,7 @@
 
 Протокол HTTP
 ===
+{% include module-not-completed-advanced.md %}
 
 Материалы для самоподготовки
 ---------------------

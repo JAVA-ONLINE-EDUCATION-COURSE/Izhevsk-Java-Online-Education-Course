@@ -2,6 +2,7 @@
 
 Введение в сборщик проектов Maven
 ===
+{% include module-not-completed-advanced.md %}
 
 ### Основные материалы
 ---------------------

@@ -2,6 +2,7 @@
 
 Основы фреймворка Spring
 ===
+{% include module-not-completed-advanced.md %}
 
 Основные материалы
 ---------------------

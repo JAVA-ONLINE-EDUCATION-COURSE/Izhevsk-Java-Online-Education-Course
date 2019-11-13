@@ -2,6 +2,7 @@
 
 Введение в Unit-тестирование
 ===
+{% include module-not-completed-advanced.md %}
 
 Основные материалы
 ---------------------

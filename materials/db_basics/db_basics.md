@@ -2,6 +2,7 @@
 
 Основы баз данных и SQL
 ===
+{% include module-not-completed-advanced.md %}
 
 Материалы для самоподготовки
 ---------------------
