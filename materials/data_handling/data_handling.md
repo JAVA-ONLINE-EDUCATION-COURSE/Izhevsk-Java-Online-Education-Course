@@ -23,8 +23,7 @@
 
 ### Основные материалы - Java I/O
 1. [Видео: Learn - Java I/O](https://learn.by/courses/course-v1:EPAM+JIO+ext1/about){:target="_blank"}
-1. [Jenkov: Java IO Tutorial](http://tutorials.jenkov.com/java-io/index.html){:target="_blank"}
-1. [Jenkov: Java NIO Tutorial](http://tutorials.jenkov.com/java-nio/index.html){:target="_blank"}
+1. [Urvanov: Потоки ввода/вывода](https://urvanov.ru/2016/05/13/java-8-%d0%bf%d0%be%d1%82%d0%be%d0%ba%d0%b8-%d0%b2%d0%b2%d0%be%d0%b4%d0%b0%d0%b2%d1%8b%d0%b2%d0%be%d0%b4%d0%b0){:target="_blank"}
 
 ### Основные материалы - Java Date and Time
 1. [Urvanov: Дата и время](https://urvanov.ru/2016/06/16/java-8-%D0%B4%D0%B0%D1%82%D0%B0-%D0%B8-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F/){:target="_blank"}
@@ -39,6 +38,8 @@
 
 ### Дополнительные материалы - Java I/O
 1. [Habr: Основные отличия Java IO и Java NIO](https://habr.com/ru/post/235585/){:target="_blank"}
+1. [Jenkov: Java IO Tutorial](http://tutorials.jenkov.com/java-io/index.html){:target="_blank"}
+1. [Jenkov: Java NIO Tutorial](http://tutorials.jenkov.com/java-nio/index.html){:target="_blank"}
 
 ### Дополнительные материалы - Java Strings and RegExp
 1. [Urvanov: Регулярные выражения](https://urvanov.ru/2016/06/08/java-8-%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5-%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/){:target="_blank"}

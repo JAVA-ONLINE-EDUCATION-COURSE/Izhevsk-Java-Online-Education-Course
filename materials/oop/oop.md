@@ -19,6 +19,13 @@
 1. [Urvanov: Наследование](https://urvanov.ru/2016/04/08/java-8-%d0%bd%d0%b0%d1%81%d0%bb%d0%b5%d0%b4%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5){:target="_blank"}
 1. [Urvanov: hashCode() и equals()](https://urvanov.ru/2017/07/29/java-hashcode-%d0%b8-equals){:target="_blank"}
 
+### Основные материалы - Annotations
+1. [Urvanov: Аннотации](https://urvanov.ru/2016/03/30/java-8-%d0%b0%d0%bd%d0%bd%d0%be%d1%82%d0%b0%d1%86%d0%b8%d0%b8){:target="_blank"}
+1. [Habr: Аннотации в Java: обзор синтаксиса и создание собственных](https://habr.com/ru/post/139736){:target="_blank"}
+1. [Habr: Аннотации в Java](https://habr.com/ru/company/golovachcourses/blog/217595){:target="_blank"}
+
+### Дополнительные материалы - Annotations
+1. [Jenkov: Java Annotations](http://tutorials.jenkov.com/java/annotations.html){:target="_blank"}
 
 Практическая работа
 ---------------------
