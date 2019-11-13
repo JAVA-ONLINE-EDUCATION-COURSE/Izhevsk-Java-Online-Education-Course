@@ -5,6 +5,7 @@
 
 Материалы для самоподготовки
 ---------------------
+
 ### Основные материалы - Java Fundamentals
 1. [Видео: Learn - Java Fundamentals](https://learn.by/courses/course-v1:EPAM+JF+ext1/about){:target="_blank"} (только раздел GETTING STARTED)
 1. [Habr: Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM](https://habr.com/ru/post/471772/){:target="_blank"}

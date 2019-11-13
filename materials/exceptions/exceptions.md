@@ -4,7 +4,7 @@
 ===
 {% include module-not-completed-basic.md %}
 
-Основные материалы
+Материалы для самоподготовки
 ---------------------
 1. [Видео: Learn - Java - Error & Exceptions](https://learn.by/courses/course-v1:EPAM+JEE+ext1/about){:target="_blank"}
 1. [Видео: исключения](https://www.youtube.com/watch?v=RcwyUIyF7kI){:target="_blank"}

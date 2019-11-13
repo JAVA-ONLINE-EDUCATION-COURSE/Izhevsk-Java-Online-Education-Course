@@ -4,7 +4,7 @@
 ===
 {% include module-not-completed-advanced.md %}
 
-Основные материалы
+Материалы для самоподготовки
 ---------------------
 1. [Видео: JUnit - Java для тестировщиков](https://www.youtube.com/watch?v=QJZb1fNYh9c){:target="_blank"}
 

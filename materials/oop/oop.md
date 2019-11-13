@@ -4,8 +4,9 @@
 ===
 {% include module-not-completed-basic.md %}
 
-Основные материалы
+Материалы для самоподготовки
 ---------------------
+
 ### Основные материалы - OOP
 1. [Habr: ООП с примерами (часть 1)](https://habr.com/ru/post/87119){:target="_blank"}
 1. [Habr: ООП с примерами (часть 2)](https://habr.com/ru/post/87205){:target="_blank"}

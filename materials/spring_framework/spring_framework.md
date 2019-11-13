@@ -4,8 +4,9 @@
 ===
 {% include module-not-completed-advanced.md %}
 
-Основные материалы
+Материалы для самоподготовки
 ---------------------
+
 1. [Презентация по Spring Core](./presentations/Spring%20Core.pptx)
 1. https://www.youtube.com/watch?v=6mXTY7RSAf0
 1. [Видеоуроки](https://www.youtube.com/watch?v=3wBteulZaAs&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t){:target="_blank"}

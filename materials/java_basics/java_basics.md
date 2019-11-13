@@ -2,8 +2,10 @@
 
 Базовые понятия Java
 ===
+
 Материалы для самоподготовки
 ---------------------
+
 ### Основные материалы - Java Basics
 1. [Видео: Learn - Java Fundamentals](https://learn.by/courses/course-v1:EPAM+JF+ext1/about){:target="_blank"}
 1. [Urvanov: Переменные](https://urvanov.ru/2016/03/15/%d0%bf%d0%b5%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d1%8b%d0%b5-%d0%b2-java-8){:target="_blank"}
