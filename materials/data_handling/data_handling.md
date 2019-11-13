@@ -6,6 +6,7 @@
 
 Материалы для самоподготовки
 ---------------------
+
 ### Основные материалы - Java Strings and RegExp
 1. [Видео: Learn - Java Strings](https://learn.by/courses/course-v1:EPAM+JS_RD_BY+ext1/about){:target="_blank"}
 1. [Urvanov: Строки](https://urvanov.ru/2016/04/20/java-8-%d1%81%d1%82%d1%80%d0%be%d0%ba%d0%b8){:target="_blank"}
