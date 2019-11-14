@@ -1,4 +1,4 @@
-### Exceptions
+### Java - Exceptions
 
 1. Как можно поймать исключение?
 1. Для чего нужен блок `finally`?
