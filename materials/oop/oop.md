@@ -20,10 +20,6 @@
 1. [Jenkov: Java Constructors](http://tutorials.jenkov.com/java/constructors.html){:target="_blank"}
 1. [Jenkov: Java Access Modifiers](http://tutorials.jenkov.com/java/access-modifiers.html){:target="_blank"}
 
-### Основные материалы - Java Packages
-1. [Urvanov: Пакеты](https://urvanov.ru/2016/03/23/%d0%bf%d0%b0%d0%ba%d0%b5%d1%82%d1%8b-%d0%b2-java-8){:target="_blank"}
-1. [Jenkov: Java Packages](http://tutorials.jenkov.com/java/packages.html){:target="_blank"}
-
 ### Основные материалы - Java Interfaces
 1. [Urvanov: Интерфейсы](https://urvanov.ru/2016/04/06/java-8-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81%d1%8b){:target="_blank"}
 1. [Jenkov: Java Interfaces](http://tutorials.jenkov.com/java/interfaces.html){:target="_blank"}
@@ -31,6 +27,10 @@
 ### Основные материалы - Java Abstract Classes
 1. [Jenkov: Java Abstract Classes](http://tutorials.jenkov.com/java/abstract-classes.html){:target="_blank"}
 1. [Jenkov: Java Interfaces vs. Abstract Classes](http://tutorials.jenkov.com/java/interfaces-vs-abstract-classes.html){:target="_blank"}
+
+### Основные материалы - Java Packages
+1. [Urvanov: Пакеты](https://urvanov.ru/2016/03/23/%d0%bf%d0%b0%d0%ba%d0%b5%d1%82%d1%8b-%d0%b2-java-8){:target="_blank"}
+1. [Jenkov: Java Packages](http://tutorials.jenkov.com/java/packages.html){:target="_blank"}
 
 ### Основные материалы - Java Inheritance
 1. [Urvanov: Наследование](https://urvanov.ru/2016/04/08/java-8-%d0%bd%d0%b0%d1%81%d0%bb%d0%b5%d0%b4%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5){:target="_blank"}
@@ -40,14 +40,9 @@
 
 ### Основные материалы - Java Annotations
 1. [Urvanov: Аннотации](https://urvanov.ru/2016/03/30/java-8-%d0%b0%d0%bd%d0%bd%d0%be%d1%82%d0%b0%d1%86%d0%b8%d0%b8){:target="_blank"}
+1. [Jenkov: Java Annotations](http://tutorials.jenkov.com/java/annotations.html){:target="_blank"}
 1. [Habr: Аннотации в Java: обзор синтаксиса и создание собственных](https://habr.com/ru/post/139736){:target="_blank"}
 1. [Habr: Аннотации в Java](https://habr.com/ru/company/golovachcourses/blog/217595){:target="_blank"}
-
-### Дополнительные материалы - Java Basics
-1. [Jenkov: Java Annotations](http://tutorials.jenkov.com/java/annotations.html){:target="_blank"}
-
-### Дополнительные материалы - Java Annotations
-1. [Jenkov: Java Annotations](http://tutorials.jenkov.com/java/annotations.html){:target="_blank"}
 
 Практическая работа
 ---------------------
