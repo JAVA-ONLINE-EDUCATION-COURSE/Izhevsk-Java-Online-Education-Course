@@ -4,7 +4,7 @@
 ===
 {% include module-not-completed-basic.md %}
 
-Коротко о главном
+Структура типичных Java-приложений
 ---------------------
 Возможно вы заметили, что приложения прошлых практик имеют схожую структуру. В этом разделе мы попытаемся объяснить, 
 почему и для чего это сделано, попутно проанализировав их составные части.
@@ -90,6 +90,22 @@ interface UserDAO {
 поиска сущности в какой-то объект UserSpecification. В нем могут содержаться различные комбинации полей, по которым идет
 поиск, сколько страниц сущностей мы хотим увидеть и в каком порядке (сортировка)
 
+В общем случае наша программа будет выглядеть следующим образом (Разве что у нас нет базы данных):  
+![Так](./img/project_layers.png)
+
+Чистый код
+---------------------
+Для того чтобы хорошо написать программу, недостаточно просто знать, на какие классы разделить функционал. Важно знать и
+понимать, как писать качественный, красивый и легкий в поддержке код.
+
+### Принцип S.O.L.I.D.
+
+### Принцип DRY
+
+### Принцип YAGNI
+
+### Принцип KISS
+
 Основные материалы
 ---------------------
 1. [Видео: Learn - Clean Code](https://learn.by/courses/course-v1:EPAM+CC+ext1/about){:target="_blank"}
@@ -100,11 +116,12 @@ interface UserDAO {
 1. [Stackoverflow: DTO vs entity](https://stackoverflow.com/questions/39397147/difference-between-entity-and-dto){:target="_blank"}
 1. [Stackoverflow: Repository vs service](https://stackoverflow.com/questions/1440096/difference-between-repository-and-service){:target="_blank"}
 1. [Habr: DAO vs Repository](https://habr.com/ru/post/263033/){:target="_blank"}
+1. [Стиль кода Java](https://github.com/lanit-tercom-school/grouplock/wiki/%D0%9A%D0%BE%D0%B4-%D1%81%D1%82%D0%B0%D0%B9%D0%BB-%D0%B4%D0%BB%D1%8F-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-Java/){:target="_blank"}
+1. [Книга: Чистый код](./books/Чистый%20Код%20(Роберт%20Мартин).djvu)
 
 https://habr.com/ru/post/155959/
-1. https://habr.com/ru/company/payonline/blog/277629/
+https://habr.com/ru/company/payonline/blog/277629/
 https://habr.com/ru/post/169487/
-
 
 Вопросы для самоконтроля
 ---------------------
