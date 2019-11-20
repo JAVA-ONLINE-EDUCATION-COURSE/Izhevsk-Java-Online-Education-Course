@@ -193,3 +193,46 @@ header span.epam-style-bracket {
       display: none;
     }
 }
+
+/** Рейтинг **/
+#rating_table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+  counter-reset: rowNumber -1;
+}
+
+#rating_table th, #rating_table td {
+  text-align: left;
+  padding: 12px;
+}
+
+#rating_table tr {
+  border-bottom: 1px solid #ddd;
+  counter-increment: rowNumber;
+}
+
+tr.header, #rating_table tr:hover {
+  background-color: #f1f1f1;
+}
+
+#rating_table tr td:nth-child(1), td:nth-child(3), td:nth-child(4){
+  width: 75px;
+}
+
+#rating_table tr td:first-child::before {
+    content: counter(rowNumber);
+}
+
+#rating_table tr:nth-child(2) td:first-child::after {
+    content: ' ' url('../img/first-place-medal.png');
+}
+
+#rating_table tr:nth-child(3) td:first-child::after {
+    content: ' ' url('../img/second-place-medal.png');
+}
+
+#rating_table tr:nth-child(4) td:first-child::after {
+    content: ' ' url('../img/third-place-medal.png');
+}

@@ -4,6 +4,7 @@ baseurl: "/course/"
 about: "/course/about"
 news: "/course/news"
 contenturl: "/course/content"
+student_rating_url: "/course/rating"
 materialsurl: "/course/materials/"
 google_analytics: UA-144330579-1
 plugins:
