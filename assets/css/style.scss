@@ -246,9 +246,13 @@ tr.header, #rating_table tr:hover {
 }
 
 .badge-inner {
-  margin: 10px;
+  width: 118px;
+  margin: 0px 34px;
 }
 
+.description {
+  text-align: center;
+}
 
 .circle-hello-world {
     width: 110px;
