@@ -257,57 +257,62 @@ tr.header, #rating_table tr:hover {
 }
 
 .circle-simple {
-    width: 110px;
-    height: 110px;
-    border-radius: 50%;
-    border: 4px solid #c0cc22;
-    font-family: Cambria;
-    font-size: 24px;
-    color: white;
-    line-height: 20px;
-    text-align: center;
-    background: #fff;
-    position: relative;
-    z-index: 1;
-    vertical-align: middle;
-    display: table-cell;
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  border: 4px solid #c0cc22;
+  font-family: Cambria;
+  font-size: 24px;
+  color: white;
+  line-height: 20px;
+  text-align: center;
+  background: #fff;
+  position: relative;
+  z-index: 1;
+  vertical-align: middle;
+  display: table-cell;
 }
 .circle-simple:before {
-    position: absolute;
-    right: 4px;
-    top: 4px;
-    left: 4px;
-    bottom: 4px;
-    content: '';
-    background: #c0cc22;
-    border-radius: 50%;
-    z-index: -1;
+  position: absolute;
+  right: 4px;
+  top: 4px;
+  left: 4px;
+  bottom: 4px;
+  content: '';
+  background: #c0cc22;
+  border-radius: 50%;
+  z-index: -1;
 }
 
 .circle-wave {
-width: 80px;
-height: 80px;
-margin-top: 25px;
-background: #EE5E4F;
-position: relative;
-top: -15px;
-left: 15px;
-border-radius: 8px;
+  width: 110px;
+  height: 110px;
+  margin-top: 25px;
+  background: #ff9100;
+  font-family: Cambria;
+  font-size: 24px;
+  position: relative;
+  top: -15px;
+  text-align: center;
+  left: 15px;
+  border-radius: 8px;
+  z-index: 1;
 }
 .circle-wave:before,
 .circle-wave:after {
-content: "";
-position: absolute;
-top: 0;
-left: 0;
-width: 80px;
-height: 80px;
-background: inherit;
-border-radius: 8px;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 80px;
+  background: inherit;
+  border-radius: 8px;
+  z-index: -1;
 }
 .circle-wave:before {
-transform: rotate(30deg);
+  transform: rotate(30deg);
 }
 .circle-wave:after {
-transform: rotate(60deg);
+  transform: rotate(60deg);
 }
