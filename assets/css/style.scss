@@ -240,8 +240,15 @@ tr.header, #rating_table tr:hover {
 
 /** Бейджики **/
 .badge {
-  display:inline-block;
+  width: 20%;
+  min-width: 180px;
+  display: inline-block;
 }
+
+.badge-inner {
+  margin: 10px;
+}
+
 
 .circle-hello-world {
     width: 110px;
