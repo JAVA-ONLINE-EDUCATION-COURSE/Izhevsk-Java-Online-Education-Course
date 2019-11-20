@@ -239,6 +239,10 @@ tr.header, #rating_table tr:hover {
 
 
 /** Бейджики **/
+.badge {
+  display:inline-block;
+}
+
 .circle-hello-world {
     width: 110px;
     height: 110px;
