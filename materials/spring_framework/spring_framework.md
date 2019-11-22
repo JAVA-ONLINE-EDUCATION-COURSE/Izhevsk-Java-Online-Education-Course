@@ -17,8 +17,6 @@ https://habr.com/ru/company/infopulse/blog/150563/
 ---------------------
 [Репозиторий с шаблоном практической работы](https://github.com/java-online-course/spring-core-template){:target="_blank"}
 
-![badge]({{site.materialsurl}}badges/java-intro.png)
-
 Вопросы для самоконтроля
 ---------------------
 1. Объясните суть паттерна DI
