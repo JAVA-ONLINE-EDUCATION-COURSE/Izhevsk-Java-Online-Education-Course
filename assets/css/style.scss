@@ -240,83 +240,8 @@ tr.header, #rating_table tr:hover {
 
 /** Бейджики **/
 .badge {
-  width: 19.9%;
-  max-width: 180px;
-  min-width: 179px;
   display: inline-block;
 }
-
-.badge-inner {
-  width: 118px;
-  margin: 0px 34px;
-}
-
-.description {
-  text-align: center;
-  padding-top: 10px;
-}
-
-.circle-simple {
-  width: 110px;
-  height: 110px;
-  border-radius: 50%;
-  border: 4px groove #00adff;
-  font-size: 30px;
-  color: white;
-  line-height: 26px;
-  text-align: center;
-  background: #fff;
-  position: relative;
-  z-index: 1;
-  vertical-align: middle;
-  display: table-cell;
-}
-.circle-simple:before {
-  position: absolute;
-  right: 4px;
-  top: 4px;
-  left: 4px;
-  bottom: 4px;
-  content: '';
-  background: #0d87c3;
-  border-radius: 50%;
-  z-index: -1;
-}
-
-.circle-wave {
-  width: 80px;
-  height: 80px;
-  margin-top: 25px;
-  background: #ff9100;
-  line-height: 26px;
-  vertical-align: middle;
-  display: table-cell;
-  position: relative;
-  font-weight: bold;
-  color: #fdfdfd;
-  font-size: 24px;
-  position: relative;
-  top: -15px;
-  text-align: center;
-  left: 15px;
-  border-radius: 8px;
-  z-index: 1;
-}
-.circle-wave:before,
-.circle-wave:after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 80px;
-  height: 80px;
-  background: inherit;
-  border-radius: 8px;
-  z-index: -1;
-}
-.circle-wave:before {
-  transform: rotate(30deg);
-}
-.circle-wave:after {
-  transform: rotate(60deg);
+.badge img {
+  width: 120px;
 }
