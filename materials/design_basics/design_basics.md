@@ -295,14 +295,14 @@ method` или механизмом `Dependency injection`
 Основные материалы
 ---------------------
 1. [Видео: Learn - Clean Code](https://learn.by/courses/course-v1:EPAM+CC+ext1/about){:target="_blank"}
+1. [Стиль кода Java](https://github.com/lanit-tercom-school/grouplock/wiki/%D0%9A%D0%BE%D0%B4-%D1%81%D1%82%D0%B0%D0%B9%D0%BB-%D0%B4%D0%BB%D1%8F-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-Java/){:target="_blank"}
+1. [Три ключевых принципа ПО, которые вы должны понимать](https://habr.com/ru/post/144611/){:target="_blank"}
 
 Дополнительные материалы
 ---------------------
-1. [Три ключевых принципа ПО, которые вы должны понимать](https://habr.com/ru/post/144611/){:target="_blank"}
 1. [Stackoverflow: DTO vs entity](https://stackoverflow.com/questions/39397147/difference-between-entity-and-dto){:target="_blank"}
 1. [Stackoverflow: Repository vs service](https://stackoverflow.com/questions/1440096/difference-between-repository-and-service){:target="_blank"}
 1. [Habr: DAO vs Repository](https://habr.com/ru/post/263033/){:target="_blank"}
-1. [Стиль кода Java](https://github.com/lanit-tercom-school/grouplock/wiki/%D0%9A%D0%BE%D0%B4-%D1%81%D1%82%D0%B0%D0%B9%D0%BB-%D0%B4%D0%BB%D1%8F-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-Java/){:target="_blank"}
 1. [Книга: Чистый код](./books/Чистый%20Код%20(Роберт%20Мартин).djvu)
 
 Вопросы для самоконтроля
