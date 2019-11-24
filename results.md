@@ -5,6 +5,6 @@
 
 | Студент | Бейджики | Средний балл |
 |:--------|:---------| :-----------:|
-| Иванов Иван | ![badge]({{site.baseurl}}badges/git.png) |1.5|
+| Иванов Иван | ![badge]({{site.baseurl}}badges/git.png) ![badge]({{site.baseurl}}badges/git.png) |1.5|
 | Иванов Иван | |1.5|
 | Иванов Иван | |1.5|
