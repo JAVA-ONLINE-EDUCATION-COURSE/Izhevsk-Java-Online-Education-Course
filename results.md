@@ -2,5 +2,6 @@
 
 Процесс обучения
 ===
-
-![badge]({{site.baseurl}}badges/git.png/250x100)
+<span class="a">
+![badge]({{site.baseurl}}badges/git.png)
+</span>
