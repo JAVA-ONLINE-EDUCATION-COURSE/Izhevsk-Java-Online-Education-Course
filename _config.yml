@@ -6,9 +6,7 @@ news: "/course/news"
 contenturl: "/course/content"
 student_rating_url: "/course/rating"
 materialsurl: "/course/materials/"
-git: "/course/badges/git.png"
-hw: "/course/badges/hw.png"
-jb: "/course/badges/jb.png"
+badges: "/course/badges/"
 google_analytics: UA-144330579-1
 plugins:
   - jekyll-seo-tag
