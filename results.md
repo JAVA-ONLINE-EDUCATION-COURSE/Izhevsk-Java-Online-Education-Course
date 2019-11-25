@@ -5,7 +5,7 @@
 
 |       Студент      |  Бейджики  | Средний балл |
 |:-------------------|:-----------|:------------:|
-| Albert Nurkaev     | ![1]({{badges}}/git.png) ![1]({{baseurl}}badges/hw.png) ![](badges/jb.png) ![](/badges/oop.png) ![]({{badges}}dh.png)|   |
+| Albert Nurkaev     | ![](badges/git.png) ![](badges/hw.png) ![](badges/jb.png) ![](badges/oop.png) ![](badges/dh.png)|   |
 | Aleksey            |            |   |
 | Alexander          |            |   |
 | Anton Tikhonov     |            |   |
