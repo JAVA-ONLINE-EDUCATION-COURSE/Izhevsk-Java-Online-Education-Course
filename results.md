@@ -2,10 +2,11 @@
 
 Процесс обучения
 ===
+![](badges/git.png) ![](badges/hw.png) ![](badges/jb.png) ![](badges/oop.png) ![](badges/dh.png)
 
 |       Студент      |  Бейджики  | Средний балл |
 |:-------------------|:-----------|:------------:|
-| Albert Nurkaev     | ![](badges/git.png) ![](badges/hw.png) ![](badges/jb.png) ![](badges/oop.png) ![](badges/dh.png)|   |
+| Albert Nurkaev     |            |   |
 | Aleksey            |            |   |
 | Alexander          |            |   |
 | Anton Tikhonov     |            |   |
