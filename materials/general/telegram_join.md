@@ -13,5 +13,6 @@
 
 Либо можно использовать один из QR кодов:
 
-![qr]({{site.materialsurl}}general/img/qr-code-t-do.gif)  
+![qr]({{site.materialsurl}}general/img/qr-code-t-do.gif)
+
 ![qr]({{site.materialsurl}}general/img/qr-code-t-me.gif)
