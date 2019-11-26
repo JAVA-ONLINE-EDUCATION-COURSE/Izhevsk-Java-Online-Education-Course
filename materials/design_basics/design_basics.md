@@ -183,6 +183,17 @@ public class PaymentScheduleCalculationRequest {
 сформирует специальную **DTO**, которую отправит (через сеть) в совершенно другое приложение, которое произведет расчет и вернет нам обратно результат 
 через `ExternalEvaluationService` в `MortgageService` и который мы запишем в нашу сущность `Mortgage` в поле `BigDecimal interestRate`.
 
+Пример:
+```java
+public interface MortgageService {
+    
+    boolean isUserFits(User user);
+    boolean createMortgageRequest(Mortgage mortgage);
+    Mortgage changeRate(Mortgage old);
+    
+}
+```
+
 ### Repository (DAO)
 Также с уровня **Service** мы можем обращаться на уровень **Repository** (Репозиторий).  
 Данный слой необходим для того, чтобы сохранять в базу или получать из базы какие-либо данные.
@@ -218,7 +229,7 @@ public class PaymentScheduleCalculationRequest {
 
 Представим ситуацию, что мы реализуем хранение сущности `User`. В случае с `UserRepository` у нас был бы следующий интерфейс:
 ```java
-interface UserRepository {
+public interface UserRepository {
     
     User get(String userName);
     void create(User user);
@@ -234,7 +245,7 @@ interface UserRepository {
 
 А в случае с `UserDAO` такой: 
 ```java
-interface UserDAO {
+public interface UserDAO {
     
     void create(User user);
     void update(User user);
