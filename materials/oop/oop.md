@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% include important-news.md %}
+
 Объектно ориентированное программирование (ООП)
 ===
 

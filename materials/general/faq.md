@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% include important-news.md %}
+
 >
 >**[Вернуться к описанию старта обучения]({{site.materialsurl}}general/education_start)**
 >   

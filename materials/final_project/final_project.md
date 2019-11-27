@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% include important-news.md %}
+
 Разработка финального проекта
 ===
 {% include module-not-completed-advanced.md %}

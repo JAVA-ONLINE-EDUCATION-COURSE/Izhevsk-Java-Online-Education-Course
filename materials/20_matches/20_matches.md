@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% include important-news.md %}
+
 Закрепление навыков: 20 спичек
 ===
 

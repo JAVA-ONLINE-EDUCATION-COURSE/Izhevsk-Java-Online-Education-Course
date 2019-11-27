@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% include important-news.md %}
+
 Основы WEB (HTML, CSS, JS)
 ===
 {% include module-not-completed-advanced.md %}

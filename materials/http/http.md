@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% include important-news.md %}
+
 Протокол HTTP
 ===
 {% include module-not-completed-advanced.md %}

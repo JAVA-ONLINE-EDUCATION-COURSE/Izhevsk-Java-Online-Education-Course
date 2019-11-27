@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% include important-news.md %}
+
 Работа с коллекциями в Java
 ===
 {% include module-not-completed-basic.md %}

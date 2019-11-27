@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% include important-news.md %}
+
 Основы фреймворка Spring
 ===
 {% include module-not-completed-advanced.md %}

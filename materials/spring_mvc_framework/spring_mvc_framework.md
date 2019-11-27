@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% include important-news.md %}
+
 Фреймворк Spring MVC
 ===
 {% include module-not-completed-advanced.md %}

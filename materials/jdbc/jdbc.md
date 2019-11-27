@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% include important-news.md %}
+
 Работа с базами данных в Java c использованием JDBC
 ===
 {% include module-not-completed-advanced.md %}

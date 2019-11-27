@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% include important-news.md %}
+
 Введение в сборщик проектов Maven
 ===
 {% include module-not-completed-advanced.md %}
