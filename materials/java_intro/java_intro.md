@@ -1,6 +1,6 @@
 {% include header.md %}
 
-{% important-news.md %}
+{% include important-news.md %}
 
 Введение в платформу Java
 =====
