@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% important-news.md %}
+
 Введение в платформу Java
 =====
 

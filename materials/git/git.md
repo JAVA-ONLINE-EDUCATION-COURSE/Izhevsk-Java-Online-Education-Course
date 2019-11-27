@@ -1,5 +1,7 @@
 {% include header.md %}
 
+{% important-news.md %}
+
 Системы контроля версий - Git
 =====
 
