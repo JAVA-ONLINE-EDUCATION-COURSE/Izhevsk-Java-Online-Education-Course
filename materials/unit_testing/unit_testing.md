@@ -4,14 +4,14 @@
 
 Введение в Unit-тестирование
 ===
-{% include module-not-completed-advanced.md %}
 
 Материалы для самоподготовки
 ---------------------
 ### Основные материалы
-1. [Видео: JUnit - Java для тестировщиков](https://www.youtube.com/watch?v=QJZb1fNYh9c){:target="_blank"}
+1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+STI+ext/about){:target="_blank"}
 
 ### Дополнительные материалы
+1. [Видео: JUnit - Java для тестировщиков](https://www.youtube.com/watch?v=QJZb1fNYh9c){:target="_blank"}
 1. [Habr: Юнит-тестирование для чайников](https://habr.com/ru/post/169381/){:target="_blank"}
 1. [Habr: Пирамида тестов на практике](https://habr.com/en/post/358950/){:target="_blank"}
 

@@ -319,7 +319,7 @@ method` или механизмом `Dependency injection`
 1. [Stackoverflow: DTO vs entity](https://stackoverflow.com/questions/39397147/difference-between-entity-and-dto){:target="_blank"}
 1. [Stackoverflow: Repository vs service](https://stackoverflow.com/questions/1440096/difference-between-repository-and-service){:target="_blank"}
 1. [Habr: DAO vs Repository](https://habr.com/ru/post/263033/){:target="_blank"}
-1. [Книга: Чистый код](./books/Чистый%20Код%20(Роберт%20Мартин).djvu)
+1. [Книга: Роберт Мартин - Чистый код](./books/Чистый%20Код%20(Роберт%20Мартин).djvu)
 
 Вопросы для самоконтроля
 ---------------------

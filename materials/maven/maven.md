@@ -4,7 +4,6 @@
 
 Введение в сборщик проектов Maven
 ===
-{% include module-not-completed-advanced.md %}
 
 Материалы для самоподготовки
 ---------------------
@@ -12,10 +11,10 @@
 1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+MBT+ext1/about){:target="_blank"}
 
 ### Дополнительные материалы
-http://tutorials.jenkov.com/maven/maven-tutorial.html
 1. [Видео: Ant и Maven](https://www.youtube.com/watch?v=ouUuT2uEuiU){:target="_blank"}
-1. [Перевод документации мавена](https://www.apache-maven.ru/){:target="_blank"}
-1. [Туториалы по мавену](https://proselyte.net/tutorials/maven/){:target="_blank"}
+1. [Jenkov: Maven](http://tutorials.jenkov.com/maven/maven-tutorial.html){:target="_blank"}
+1. [Документация Мавена](https://www.apache-maven.ru/){:target="_blank"}
+1. [Туториалы по Мавену](https://proselyte.net/tutorials/maven/){:target="_blank"}
 
 Практическая работа
 ---------------------
@@ -45,7 +44,7 @@ http://tutorials.jenkov.com/maven/maven-tutorial.html
             <executions>
                 <execution>
                     <id>make-assembly</id>
-                    <phase>package</phase> <!-- Привязываем выполнение плагина к конкретной фазе мавена -->
+                    <phase>package</phase> <!-- Привязываем выполнение к конкретной фазе мавена -->
                     <goals>
                         <goal>single</goal>
                     </goals>
@@ -54,11 +53,11 @@ http://tutorials.jenkov.com/maven/maven-tutorial.html
         </plugin>
     ```
 1. Выполните команду `mvn clean package`
-1. Откройте получившийся архив `...-1.0-SNAPSHOT-jar-with-dependencies.jar` Проверьте наличие там таких
-пакетов, из группы `org.apache.commons`.
+1. Откройте получившийся архив `...-1.0-SNAPSHOT-jar-with-dependencies.jar` Проверьте наличие там пакетов из группы 
+`org.apache.commons`.
 1. Выполните команду `mvn clean install`. В чем её отличие от предыдущей?
 1. Добавьте в ваш pom.xml `Maven Javadoc Plugin`. Добавьте джавадок к методу Main и выполните `javadoc:javadoc`. Проверьте
-успешность выполенния плагина
+успешность выполнения плагина
 
 Вопросы для самоконтроля
 ---------------------
