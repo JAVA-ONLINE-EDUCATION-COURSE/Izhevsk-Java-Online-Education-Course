@@ -16,3 +16,4 @@
 {% include questions/exceptions_questions.md %}  
 {% include questions/maven_questions.md %}  
 {% include questions/unit_testing_questions.md %}
+{% include questions/spring_core_questions.md %}
