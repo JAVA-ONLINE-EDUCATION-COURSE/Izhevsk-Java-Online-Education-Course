@@ -13,6 +13,7 @@
 * [Типичные ошибки при выполнении практических работ]({{site.materialsurl}}general/typical_mistakes)
 * [Критерии выставления оценки для практических работ ментором]({{site.materialsurl}}general/practical_tasks_evaluation_rules)
 * [Часто задаваемые вопросы]({{site.materialsurl}}general/faq)
+* [Что мы ждем от работы с Junior Backend Developer]({{site.materialsurl}}general/junior_expectations)
 
 Базовые модули
 ---------------------
