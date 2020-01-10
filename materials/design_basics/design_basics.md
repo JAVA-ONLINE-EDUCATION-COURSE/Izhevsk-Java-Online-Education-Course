@@ -241,9 +241,7 @@ public interface UserRepository {
     void update(User user);
     void delete(String userName);
  
-    List<User> getUserByLastName(String lastName);
-    User getUserByAgeRange(int minAge, int maxAge);
-    // Еще миллион методов поиска с размыни параметрами
+    List<User> query(UserSpecification specification); // Один метод что правит всеми запросами поиска
     
 }
 ```
@@ -255,15 +253,17 @@ public interface UserDAO {
     void create(User user);
     void update(User user);
     void delete(User user);
-    
-    List<User> query(UserSpecification specification); // Один метод что правит всеми запросами поиска
-    
+   
+    List<User> getUserByLastName(String lastName);
+    User getUserByAgeRange(int minAge, int maxAge);
+    // Еще миллион методов поиска с разными параметрами
+
 }
 ```
 
-Наверное, вы уже уловили суть. Самое главное отличие Repository от DAO в том, что DAO инкапсулируют всевозможные варианты 
+Наверное, вы уже уловили суть. Самое главное отличие Repository от DAO в том, что он инкапсулируют всевозможные варианты 
 поиска сущности в какой-то объект UserSpecification. В нем могут содержаться различные комбинации полей, по которым идет
-поиск, сколько страниц сущностей мы хотим увидеть и в каком порядке (сортировка)
+поиск, сколько страниц сущностей мы хотим увидеть и в каком порядке (сортировка).
 
 В общем случае наша программа будет выглядеть следующим образом (Разве что у нас нет базы данных):  
 ![Так](./img/project_layers.png)
