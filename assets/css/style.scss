@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-size: 18px;
   color: #000000;
@@ -245,4 +249,30 @@ table img {
   box-shadow: none;
   margin: 0px;
   padding: 0px
+}
+
+/** Кнопка возврата наверх **/
+#button_go_to_top {
+  display: inline-block;
+  background-color: #37c2d7;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .3s;
+  z-index: 1000;
+}
+
+#button_go_to_top::after {
+  content: "\21D1";
+  color: #fff;
+  font-size: 2em;
+}
+
+#button_go_to_top:hover {
+  cursor: pointer;
+  background-color: #333;
 }
