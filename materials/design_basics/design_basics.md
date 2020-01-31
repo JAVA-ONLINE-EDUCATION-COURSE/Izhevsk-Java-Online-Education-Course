@@ -32,7 +32,8 @@
 сеттеры. Никакая логика не должна содержаться в этом классе.
 
 Пример **Entity** - сущность ипотечного займа.  
-Она используется при сохранении и получении данных из базы через слой **Repository**.
+Она используется при сохранении и получении данных из базы через слой **Repository**. Пример:
+<details>
 
 ```java
 package ru.bank.abc.entity;
@@ -100,7 +101,7 @@ public class Mortgage {
     }
 }
 ```
-
+</details>
 ### DTO
 Также в приложениях выделяют сущности **DTO** (Data-transfer object). 
 
@@ -108,7 +109,8 @@ public class Mortgage {
 
 Технически, это то же самое, что и Entity, но с точки зрения бизнес-домена, эти объекты никак не связаны с ней.
 
-Например, несколько полей, объединенных в одну сущность (**DTO**) для отправки в сервис расчета графика платежей.
+Например, несколько полей, объединенных в одну сущность (**DTO**) для отправки в сервис расчета графика платежей. Пример:
+<details>
 
 ```java
 package ru.bank.abc.dto;
@@ -158,6 +160,7 @@ public class PaymentScheduleCalculationRequest {
     }
 }
 ```
+</details>
 
 Также **DTO** могут использоваться для слоя отображения.  
 То есть, это сущность, которая будет возвращаться пользователю в браузер (или в любое другое приложение-клиент) для отображения.
@@ -189,6 +192,8 @@ public class PaymentScheduleCalculationRequest {
 через `ExternalEvaluationService` в `MortgageService` и который мы запишем в нашу сущность `Mortgage` в поле `BigDecimal interestRate`.
 
 Пример:
+<details>
+
 ```java
 public interface MortgageService {
     
@@ -198,6 +203,7 @@ public interface MortgageService {
     
 }
 ```
+</details>
 
 ### Repository (DAO)
 Также с уровня **Service** мы можем обращаться на уровень **Repository** (Репозиторий).  
@@ -233,6 +239,8 @@ public interface MortgageService {
 Они оба отвечают за взаимодействие с каким-то хранилищем сущностей. В чем же тогда заключается разница между ними?
 
 Представим ситуацию, что мы реализуем хранение сущности `User`. В случае с `UserRepository` у нас был бы следующий интерфейс:
+<details>
+
 ```java
 public interface UserRepository {
     
@@ -245,8 +253,11 @@ public interface UserRepository {
     
 }
 ```
+</details>
 
 А в случае с `UserDAO` такой: 
+<details>
+
 ```java
 public interface UserDAO {
     
@@ -260,6 +271,7 @@ public interface UserDAO {
 
 }
 ```
+</details>
 
 Наверное, вы уже уловили суть. Самое главное отличие Repository от DAO в том, что он инкапсулируют всевозможные варианты 
 поиска сущности в какой-то объект UserSpecification. В нем могут содержаться различные комбинации полей, по которым идет
