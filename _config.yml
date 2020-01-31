@@ -12,4 +12,4 @@ materialsurl: "/course/materials/"
 badges: "/course/badges/"
 google_analytics: UA-144330579-1
 plugins:
-    - jekyll-seo-tag
+  - jekyll-seo-tag
