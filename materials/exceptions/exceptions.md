@@ -14,6 +14,9 @@
 ### Дополнительные материалы - Exceptions
 1. [Habr: Исключения в Java, Часть I (try-catch-finally)](https://habr.com/ru/company/golovachcourses/blog/223821/){:target="_blank"}
 1. [Habr: Исключения в Java, Часть II (checked/unchecked)](https://habr.com/ru/company/golovachcourses/blog/225585/){:target="_blank"}
+1. [Baeldung - Exception Handling in Java)](https://www.baeldung.com/java-exceptions){:target="_blank"}
+1. [Baeldung - Create a Custom Exception in Java](https://www.baeldung.com/java-new-custom-exception){:target="_blank"}
+1. [Baeldung - Checked and Unchecked Exceptions in Java](https://www.baeldung.com/java-checked-unchecked-exceptions){:target="_blank"}
 
 Практическая работа
 ---------------------
