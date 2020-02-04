@@ -56,7 +56,7 @@
 * [Работа с базами данных в Java c использованием JDBC]({{site.materialsurl}}jdbc/jdbc)
 
 ### Основы WEB
-* [Протокол HTTP]({{site.materialsurl}}http/http)
+* [Протокол HTTP и основы REST-сервисов]({{site.materialsurl}}http/http)
 * [Основы WEB (HTML, CSS, JS)]({{site.materialsurl}}web_basics/web_basics)
 
 ### Фреймворк Spring MVC

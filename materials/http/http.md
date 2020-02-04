@@ -2,22 +2,25 @@
 
 {% include important-news.md %}
 
-Протокол HTTP
+Протокол HTTP и основы REST-сервисов
 ===
-{% include module-not-completed-advanced.md %}
 
-Материалы для самоподготовки
+Основные материалы
 ---------------------
 1. [Обзор всех инструментов разработчика Chrome DevTools](https://habr.com/ru/company/simbirsoft/blog/337116/){:target="_blank"}
 1. [Презентация HTTP](./presentations/HTTP.pdf)
+1. [Habr - Простым языком об HTTP](https://habr.com/ru/post/215117/){:target="_blank"}
+1. [Habr - Архитектура REST](https://habr.com/ru/post/38730/){:target="_blank"}
+1. [Habr - Шпаргалка Java программиста 8. Библиотеки для работы с Json (Gson, Fastjson, LoganSquare, Jackson, JsonPath и другие)](https://habr.com/ru/company/luxoft/blog/280782/){:target="_blank"}
+
+Дополнительные материалы
+---------------------
 1. [Документация от mozilla](https://developer.mozilla.org/ru/docs/Web/HTTP){:target="_blank"}
-1. [Статья на Хабре](https://habr.com/ru/post/215117/){:target="_blank"}
+1. [Baeldung - Jackson](https://www.baeldung.com/jackson){:target="_blank"}
 
 Практическая работа
 ---------------------
-
-### Задание №1
-Необходимо реализовать консольную программу-симулятор боёв покемонов.
+[Репозиторий с шаблоном практической работы](https://github.com/java-online-course/http-template){:target="_blank"}
 
 Вопросы для самоконтроля
 ---------------------
