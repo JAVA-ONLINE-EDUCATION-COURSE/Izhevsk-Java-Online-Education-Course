@@ -13,7 +13,7 @@
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-2.png)
 
-Ставим галочку для `Create project from template` и выбираем `Java Hello World`.  
+Ставим галочку для `Create project from template` и выбираем `Command Line App`.  
 Далее нажимаем `Next`.
 
 ![hello-world]({{site.materialsurl}}java_intro/img/step-3.png)
