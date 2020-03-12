@@ -18,7 +18,7 @@
 
 Практическая работа
 ---------------------
-[Репозиторий с шаблоном практической работы](https://github.com/java-online-course/spring-mvc-template){:target="_blank"}
+[Репозиторий с шаблоном финального проекта](https://github.com/java-online-course/final-project-template){:target="_blank"}
 
 Вопросы для самоконтроля
 ---------------------
