@@ -14,21 +14,19 @@
 1. [Спринг по-русски](http://spring-projects.ru/guides/serving-web-content/){:target="_blank"}
 1. [Архитектура MVC](http://javastudy.ru/spring-mvc/spring-mvc-basic/){:target="_blank"}
 1. [Пример структуры MVC](https://proselyte.net/tutorials/spring-tutorial-full-version/spring-mvc-framework/){:target="_blank"}
-
 1. [Спринг по-русски (валидация)](http://spring-projects.ru/guides/validating-form-input/){:target="_blank"}
 1. [Усложненная Spring MVC валидация](https://habr.com/ru/post/424819/){:target="_blank"}
-
 1. [Спринг по-русски (безопасность)](http://spring-projects.ru/guides/securing-web/){:target="_blank"}
 1. [Пример Spring Boot + Spring Security](https://gist.github.com/AppLoidx/7ae08564d070c5d66b95b348830fe5df){:target="_blank"}
 1. [Подробнее о Spring Security (без Spring Boot)](https://devcolibri.com/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D1%80%D0%B0%D1%82-%D0%B2-spring-security/){:target="_blank"}
 1. [Усложненный Spring Boot + Spring Security](https://leodev.ru/blog/spring-security/spring-boot-spring-security-thymeleaf-example/#.XoGpjYgzaUk){:target="_blank"}
+1. [Статья Spring Data JDBC](https://habr.com/ru/post/423697/){:target="_blank"}
 
 Дополнительные материалы для самоподготовки
 ---------------------
-1. [Спринг по-русски (jdbc)*](http://spring-projects.ru/guides/relational-data-access/){:target="_blank"}
-1. [Статья Spring Data JDBC*](https://habr.com/ru/post/423697/){:target="_blank"}
-1. [Статья Spring JDBC template*](https://easyjava.ru/spring/spring-data-access/zaprosy-v-spring-jdbc/){:target="_blank"}
-1. [Spring JDBC template на английском*](https://www.baeldung.com/spring-jdbc-jdbctemplate/){:target="_blank"}
+1. [Baeldung - Security with Spring](https://www.baeldung.com/security-spring)
+1. [Baeldung - Java Bean Validation Basics](https://www.baeldung.com/javax-validation)
+1. [Baeldung - Java Server Pages](https://www.baeldung.com/jsp)
 
 Практическая работа
 ---------------------
