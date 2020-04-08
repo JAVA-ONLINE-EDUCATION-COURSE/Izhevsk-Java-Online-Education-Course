@@ -4,9 +4,8 @@
 
 Фреймворк Spring MVC
 ===
-{% include module-not-completed-advanced.md %}
 
-Материалы для самоподготовки
+Основные материалы для самоподготовки
 ---------------------
 Основные материалы - Spring MVC
 1. [Презентация по Spring MVC](./presentations/spring_mvc.pptx)
@@ -24,12 +23,12 @@
 1. [Подробнее о Spring Security (без Spring Boot)](https://devcolibri.com/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D1%80%D0%B0%D1%82-%D0%B2-spring-security/){:target="_blank"}
 1. [Усложненный Spring Boot + Spring Security](https://leodev.ru/blog/spring-security/spring-boot-spring-security-thymeleaf-example/#.XoGpjYgzaUk){:target="_blank"}
 
+Дополнительные материалы для самоподготовки
+---------------------
 1. [Спринг по-русски (jdbc)*](http://spring-projects.ru/guides/relational-data-access/){:target="_blank"}
 1. [Статья Spring Data JDBC*](https://habr.com/ru/post/423697/){:target="_blank"}
 1. [Статья Spring JDBC template*](https://easyjava.ru/spring/spring-data-access/zaprosy-v-spring-jdbc/){:target="_blank"}
 1. [Spring JDBC template на английском*](https://www.baeldung.com/spring-jdbc-jdbctemplate/){:target="_blank"}
-
-*не является обязательной в данной теме
 
 Практическая работа
 ---------------------
