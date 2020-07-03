@@ -8,7 +8,7 @@
 Материалы для самоподготовки
 ---------------------
 ### Основные материалы - Java Collections
-1. [Видео: Learn - Java Collections](https://learn.by/courses/course-v1:EPAM+JColl+ext1/about){:target="_blank"}
+1. [Видео: Learn - Java Collections](https://learn.epam.com/detailsPage?id=84a33d58-2d1a-4e39-bd9f-3e3e08dab793){:target="_blank"}
 1. [Urvanov: Коллекции](https://urvanov.ru/2016/06/14/java-8-%d0%ba%d0%be%d0%bb%d0%bb%d0%b5%d0%ba%d1%86%d0%b8%d0%b8){:target="_blank"}
 1. [Habr: Обзор коллекции ArrayList](http://habrahabr.ru/post/128269/){:target="_blank"}
 1. [Habr: Обзор коллекции LinkedList](http://habrahabr.ru/post/127864/){:target="_blank"}

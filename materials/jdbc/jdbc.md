@@ -7,7 +7,7 @@
 
 Материалы для самоподготовки
 ---------------------
-1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+JDBC_RD_BY+ext1/about){:target="_blank"}
+1. [Курс на Learn](https://learn.by/courses/course-v1:EPAM+JDBC_RD_BY+ext1/about){:target="_blank"}
 1. [Презентация JDBC](./presentations/JDBC.pptx){:target="_blank"}
 1. [Спринг по-русски (jdbc)](https://spring-projects.ru/guides/relational-data-access/){:target="_blank"}
 1. [Habr: Представляем Spring Data JDBC](https://habr.com/ru/post/423697/){:target="_blank"}

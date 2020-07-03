@@ -9,7 +9,7 @@
 ---------------------
 
 ### Основные материалы - Java Fundamentals
-1. [Видео: Learn - Java Fundamentals](https://learn.by/courses/course-v1:EPAM+JF+ext1/about){:target="_blank"} (только раздел GETTING STARTED)
+1. [Видео: Learn - Java Fundamentals](https://learn.epam.com/detailsPage?id=2dc581e5-a788-4737-9730-183dfef41e5f){:target="_blank"} (только раздел GETTING STARTED)
 1. [Habr: Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM](https://habr.com/ru/post/471772/){:target="_blank"}
 1. [Видео: Введение в Java](https://www.youtube.com/watch?v=iK97P8DQeOU){:target="_blank"}
 

@@ -8,7 +8,7 @@
 Материалы для самоподготовки
 ---------------------
 ### Основные материалы
-1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+MBT+ext1/about){:target="_blank"}
+1. [Курс на Learn](https://learn.epam.com/detailsPage?id=2d408aa1-18c7-4da9-bed0-9ee229431c80){:target="_blank"}
 
 ### Дополнительные материалы
 1. [Видео: Ant и Maven](https://www.youtube.com/watch?v=ouUuT2uEuiU){:target="_blank"}

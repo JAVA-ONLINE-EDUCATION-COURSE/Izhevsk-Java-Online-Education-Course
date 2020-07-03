@@ -23,7 +23,7 @@
 1. [Urvanov: Особенности работы с BigDecimal](https://urvanov.ru/2015/06/23/%d0%be%d1%81%d0%be%d0%b1%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b-%d1%81-java-math-bigdecimal){:target="_blank"}
 
 ### Основные материалы - Java I/O
-1. [Видео: Learn - Java I/O](https://learn.by/courses/course-v1:EPAM+JIO+ext1/about){:target="_blank"}
+1. [Видео: Learn - Java I/O](https://learn.epam.com/detailsPage?id=2ae5c9a0-6f70-443c-9866-559bc1a408db){:target="_blank"}
 1. [Urvanov: Потоки ввода/вывода](https://urvanov.ru/2016/05/13/java-8-%d0%bf%d0%be%d1%82%d0%be%d0%ba%d0%b8-%d0%b2%d0%b2%d0%be%d0%b4%d0%b0%d0%b2%d1%8b%d0%b2%d0%be%d0%b4%d0%b0){:target="_blank"}
 
 ### Основные материалы - Java Date and Time
