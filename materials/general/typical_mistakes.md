@@ -159,3 +159,20 @@ for (User user : users)
 // Идеально
 users.foreach(System.out::println);
 ```
+
+Я сделал всё задание в одной ветке, как мне теперь кинуть pull request?
+---------------------
+Для работы с git тут используется [GitKraken](https://www.gitkraken.com/)
+
+Для начала запуште всё что вы сделали в вашей ветке.
+Затем сделайте **checkout** на самый первый комит который вы сделали в вашей ветке
+
+![learn]({{site.materialsurl}}general/gif/commit_checkout.gif)
+
+Далее создайте ветку от этого комита и запуште её
+
+![learn]({{site.materialsurl}}general/gif/create_branch_from_commit_and_push.gif)
+
+Ну и в конце создайте **pull request** из основной ветки в ветку которую вы только что создали.
+
+![learn]({{site.materialsurl}}general/gif/create_pull_request.gif)
