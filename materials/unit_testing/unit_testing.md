@@ -8,7 +8,7 @@
 Материалы для самоподготовки
 ---------------------
 ### Основные материалы
-1. [Курс на Learn.by](https://learn.by/courses/course-v1:EPAM+STI+ext/about){:target="_blank"}
+1. [Курс на Learn](https://learn.epam.com/detailsPage?id=a4a1b6e2-4e51-455d-ac5b-e60f23d4ed69){:target="_blank"}
 
 ### Дополнительные материалы
 1. [Видео: JUnit - Java для тестировщиков](https://www.youtube.com/watch?v=QJZb1fNYh9c){:target="_blank"}
