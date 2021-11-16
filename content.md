@@ -7,7 +7,6 @@
 
 ### Описание правил и процессов
 * [Старт процесса обучения]({{site.materialsurl}}general/education_start)
-* [Правила работы с платформой Grow.by]({{site.materialsurl}}general/grow_intro)
 * [Правила работы с платформой Learn]({{site.materialsurl}}general/learn_intro)
 * [Правила выполнения практических заданий]({{site.materialsurl}}general/practical_tasks_completing_rules)
 * [Типичные ошибки при выполнении практических работ]({{site.materialsurl}}general/typical_mistakes)
